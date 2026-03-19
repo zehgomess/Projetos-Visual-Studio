@@ -1,0 +1,14 @@
+C:\Users\Zeh\Desktop\Programação\Udemy\Curso C# Logica e algoritmos\Projetos Visual Studio\Udemy_estr_condicional\Udemy_estr_condicional\obj\Debug\net10.0\Udemy_estr_condicional.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Zeh\Desktop\Programação\Udemy\Curso C# Logica e algoritmos\Projetos Visual Studio\Udemy_estr_condicional\Udemy_estr_condicional\obj\Debug\net10.0\Udemy_estr_condicional.AssemblyInfoInputs.cache
+C:\Users\Zeh\Desktop\Programação\Udemy\Curso C# Logica e algoritmos\Projetos Visual Studio\Udemy_estr_condicional\Udemy_estr_condicional\obj\Debug\net10.0\Udemy_estr_condicional.AssemblyInfo.cs
+C:\Users\Zeh\Desktop\Programação\Udemy\Curso C# Logica e algoritmos\Projetos Visual Studio\Udemy_estr_condicional\Udemy_estr_condicional\obj\Debug\net10.0\Udemy_estr_condicional.csproj.CoreCompileInputs.cache
+C:\Users\Zeh\Desktop\Programação\Udemy\Curso C# Logica e algoritmos\Projetos Visual Studio\Udemy_estr_condicional\Udemy_estr_condicional\bin\Debug\net10.0\Udemy_estr_condicional.exe
+C:\Users\Zeh\Desktop\Programação\Udemy\Curso C# Logica e algoritmos\Projetos Visual Studio\Udemy_estr_condicional\Udemy_estr_condicional\bin\Debug\net10.0\Udemy_estr_condicional.deps.json
+C:\Users\Zeh\Desktop\Programação\Udemy\Curso C# Logica e algoritmos\Projetos Visual Studio\Udemy_estr_condicional\Udemy_estr_condicional\bin\Debug\net10.0\Udemy_estr_condicional.runtimeconfig.json
+C:\Users\Zeh\Desktop\Programação\Udemy\Curso C# Logica e algoritmos\Projetos Visual Studio\Udemy_estr_condicional\Udemy_estr_condicional\bin\Debug\net10.0\Udemy_estr_condicional.dll
+C:\Users\Zeh\Desktop\Programação\Udemy\Curso C# Logica e algoritmos\Projetos Visual Studio\Udemy_estr_condicional\Udemy_estr_condicional\bin\Debug\net10.0\Udemy_estr_condicional.pdb
+C:\Users\Zeh\Desktop\Programação\Udemy\Curso C# Logica e algoritmos\Projetos Visual Studio\Udemy_estr_condicional\Udemy_estr_condicional\obj\Debug\net10.0\Udemy_estr_condicional.dll
+C:\Users\Zeh\Desktop\Programação\Udemy\Curso C# Logica e algoritmos\Projetos Visual Studio\Udemy_estr_condicional\Udemy_estr_condicional\obj\Debug\net10.0\refint\Udemy_estr_condicional.dll
+C:\Users\Zeh\Desktop\Programação\Udemy\Curso C# Logica e algoritmos\Projetos Visual Studio\Udemy_estr_condicional\Udemy_estr_condicional\obj\Debug\net10.0\Udemy_estr_condicional.pdb
+C:\Users\Zeh\Desktop\Programação\Udemy\Curso C# Logica e algoritmos\Projetos Visual Studio\Udemy_estr_condicional\Udemy_estr_condicional\obj\Debug\net10.0\Udemy_estr_condicional.genruntimeconfig.cache
+C:\Users\Zeh\Desktop\Programação\Udemy\Curso C# Logica e algoritmos\Projetos Visual Studio\Udemy_estr_condicional\Udemy_estr_condicional\obj\Debug\net10.0\ref\Udemy_estr_condicional.dll

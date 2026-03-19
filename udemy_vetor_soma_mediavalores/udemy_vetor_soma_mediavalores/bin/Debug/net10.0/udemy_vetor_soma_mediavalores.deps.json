@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "udemy_vetor_soma_mediavalores/1.0.0": {
+        "runtime": {
+          "udemy_vetor_soma_mediavalores.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "udemy_vetor_soma_mediavalores/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "exerc udemy uri 1009/1.0.0": {
+        "runtime": {
+          "exerc udemy uri 1009.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "exerc udemy uri 1009/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,14 @@
+C:\Users\Zeh\Desktop\Programação\Udemy\Curso C# Logica e algoritmos\Projetos Visual Studio\Udemy_uri1036_baskara\Udemy_uri1036_baskara\obj\Debug\net10.0\Udemy_uri1036_baskara.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Zeh\Desktop\Programação\Udemy\Curso C# Logica e algoritmos\Projetos Visual Studio\Udemy_uri1036_baskara\Udemy_uri1036_baskara\obj\Debug\net10.0\Udemy_uri1036_baskara.AssemblyInfoInputs.cache
+C:\Users\Zeh\Desktop\Programação\Udemy\Curso C# Logica e algoritmos\Projetos Visual Studio\Udemy_uri1036_baskara\Udemy_uri1036_baskara\obj\Debug\net10.0\Udemy_uri1036_baskara.AssemblyInfo.cs
+C:\Users\Zeh\Desktop\Programação\Udemy\Curso C# Logica e algoritmos\Projetos Visual Studio\Udemy_uri1036_baskara\Udemy_uri1036_baskara\obj\Debug\net10.0\Udemy_uri1036_baskara.csproj.CoreCompileInputs.cache
+C:\Users\Zeh\Desktop\Programação\Udemy\Curso C# Logica e algoritmos\Projetos Visual Studio\Udemy_uri1036_baskara\Udemy_uri1036_baskara\bin\Debug\net10.0\Udemy_uri1036_baskara.exe
+C:\Users\Zeh\Desktop\Programação\Udemy\Curso C# Logica e algoritmos\Projetos Visual Studio\Udemy_uri1036_baskara\Udemy_uri1036_baskara\bin\Debug\net10.0\Udemy_uri1036_baskara.deps.json
+C:\Users\Zeh\Desktop\Programação\Udemy\Curso C# Logica e algoritmos\Projetos Visual Studio\Udemy_uri1036_baskara\Udemy_uri1036_baskara\bin\Debug\net10.0\Udemy_uri1036_baskara.runtimeconfig.json
+C:\Users\Zeh\Desktop\Programação\Udemy\Curso C# Logica e algoritmos\Projetos Visual Studio\Udemy_uri1036_baskara\Udemy_uri1036_baskara\bin\Debug\net10.0\Udemy_uri1036_baskara.dll
+C:\Users\Zeh\Desktop\Programação\Udemy\Curso C# Logica e algoritmos\Projetos Visual Studio\Udemy_uri1036_baskara\Udemy_uri1036_baskara\bin\Debug\net10.0\Udemy_uri1036_baskara.pdb
+C:\Users\Zeh\Desktop\Programação\Udemy\Curso C# Logica e algoritmos\Projetos Visual Studio\Udemy_uri1036_baskara\Udemy_uri1036_baskara\obj\Debug\net10.0\Udemy_uri1036_baskara.dll
+C:\Users\Zeh\Desktop\Programação\Udemy\Curso C# Logica e algoritmos\Projetos Visual Studio\Udemy_uri1036_baskara\Udemy_uri1036_baskara\obj\Debug\net10.0\refint\Udemy_uri1036_baskara.dll
+C:\Users\Zeh\Desktop\Programação\Udemy\Curso C# Logica e algoritmos\Projetos Visual Studio\Udemy_uri1036_baskara\Udemy_uri1036_baskara\obj\Debug\net10.0\Udemy_uri1036_baskara.pdb
+C:\Users\Zeh\Desktop\Programação\Udemy\Curso C# Logica e algoritmos\Projetos Visual Studio\Udemy_uri1036_baskara\Udemy_uri1036_baskara\obj\Debug\net10.0\Udemy_uri1036_baskara.genruntimeconfig.cache
+C:\Users\Zeh\Desktop\Programação\Udemy\Curso C# Logica e algoritmos\Projetos Visual Studio\Udemy_uri1036_baskara\Udemy_uri1036_baskara\obj\Debug\net10.0\ref\Udemy_uri1036_baskara.dll

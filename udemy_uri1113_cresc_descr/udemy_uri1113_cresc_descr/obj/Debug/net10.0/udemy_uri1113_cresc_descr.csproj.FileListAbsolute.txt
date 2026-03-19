@@ -1,0 +1,14 @@
+C:\Users\Zeh\Desktop\Programação\Udemy\Curso C# Logica e algoritmos\Projetos Visual Studio\udemy_uri1113_cresc_descr\udemy_uri1113_cresc_descr\obj\Debug\net10.0\udemy_uri1113_cresc_descr.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Zeh\Desktop\Programação\Udemy\Curso C# Logica e algoritmos\Projetos Visual Studio\udemy_uri1113_cresc_descr\udemy_uri1113_cresc_descr\obj\Debug\net10.0\udemy_uri1113_cresc_descr.AssemblyInfoInputs.cache
+C:\Users\Zeh\Desktop\Programação\Udemy\Curso C# Logica e algoritmos\Projetos Visual Studio\udemy_uri1113_cresc_descr\udemy_uri1113_cresc_descr\obj\Debug\net10.0\udemy_uri1113_cresc_descr.AssemblyInfo.cs
+C:\Users\Zeh\Desktop\Programação\Udemy\Curso C# Logica e algoritmos\Projetos Visual Studio\udemy_uri1113_cresc_descr\udemy_uri1113_cresc_descr\obj\Debug\net10.0\udemy_uri1113_cresc_descr.csproj.CoreCompileInputs.cache
+C:\Users\Zeh\Desktop\Programação\Udemy\Curso C# Logica e algoritmos\Projetos Visual Studio\udemy_uri1113_cresc_descr\udemy_uri1113_cresc_descr\bin\Debug\net10.0\udemy_uri1113_cresc_descr.exe
+C:\Users\Zeh\Desktop\Programação\Udemy\Curso C# Logica e algoritmos\Projetos Visual Studio\udemy_uri1113_cresc_descr\udemy_uri1113_cresc_descr\bin\Debug\net10.0\udemy_uri1113_cresc_descr.deps.json
+C:\Users\Zeh\Desktop\Programação\Udemy\Curso C# Logica e algoritmos\Projetos Visual Studio\udemy_uri1113_cresc_descr\udemy_uri1113_cresc_descr\bin\Debug\net10.0\udemy_uri1113_cresc_descr.runtimeconfig.json
+C:\Users\Zeh\Desktop\Programação\Udemy\Curso C# Logica e algoritmos\Projetos Visual Studio\udemy_uri1113_cresc_descr\udemy_uri1113_cresc_descr\bin\Debug\net10.0\udemy_uri1113_cresc_descr.dll
+C:\Users\Zeh\Desktop\Programação\Udemy\Curso C# Logica e algoritmos\Projetos Visual Studio\udemy_uri1113_cresc_descr\udemy_uri1113_cresc_descr\bin\Debug\net10.0\udemy_uri1113_cresc_descr.pdb
+C:\Users\Zeh\Desktop\Programação\Udemy\Curso C# Logica e algoritmos\Projetos Visual Studio\udemy_uri1113_cresc_descr\udemy_uri1113_cresc_descr\obj\Debug\net10.0\udemy_uri1113_cresc_descr.dll
+C:\Users\Zeh\Desktop\Programação\Udemy\Curso C# Logica e algoritmos\Projetos Visual Studio\udemy_uri1113_cresc_descr\udemy_uri1113_cresc_descr\obj\Debug\net10.0\refint\udemy_uri1113_cresc_descr.dll
+C:\Users\Zeh\Desktop\Programação\Udemy\Curso C# Logica e algoritmos\Projetos Visual Studio\udemy_uri1113_cresc_descr\udemy_uri1113_cresc_descr\obj\Debug\net10.0\udemy_uri1113_cresc_descr.pdb
+C:\Users\Zeh\Desktop\Programação\Udemy\Curso C# Logica e algoritmos\Projetos Visual Studio\udemy_uri1113_cresc_descr\udemy_uri1113_cresc_descr\obj\Debug\net10.0\udemy_uri1113_cresc_descr.genruntimeconfig.cache
+C:\Users\Zeh\Desktop\Programação\Udemy\Curso C# Logica e algoritmos\Projetos Visual Studio\udemy_uri1113_cresc_descr\udemy_uri1113_cresc_descr\obj\Debug\net10.0\ref\udemy_uri1113_cresc_descr.dll

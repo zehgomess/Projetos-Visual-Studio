@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "udemy_uri1113_cresc_descr/1.0.0": {
+        "runtime": {
+          "udemy_uri1113_cresc_descr.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "udemy_uri1113_cresc_descr/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

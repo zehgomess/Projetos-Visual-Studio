@@ -1,0 +1,14 @@
+C:\Users\Zeh\Desktop\Programação\Udemy\Curso C# Logica e algoritmos\Projetos Visual Studio\udemy_foreach\udemy_foreach\bin\Debug\net10.0\udemy_foreach.exe
+C:\Users\Zeh\Desktop\Programação\Udemy\Curso C# Logica e algoritmos\Projetos Visual Studio\udemy_foreach\udemy_foreach\bin\Debug\net10.0\udemy_foreach.deps.json
+C:\Users\Zeh\Desktop\Programação\Udemy\Curso C# Logica e algoritmos\Projetos Visual Studio\udemy_foreach\udemy_foreach\bin\Debug\net10.0\udemy_foreach.runtimeconfig.json
+C:\Users\Zeh\Desktop\Programação\Udemy\Curso C# Logica e algoritmos\Projetos Visual Studio\udemy_foreach\udemy_foreach\bin\Debug\net10.0\udemy_foreach.dll
+C:\Users\Zeh\Desktop\Programação\Udemy\Curso C# Logica e algoritmos\Projetos Visual Studio\udemy_foreach\udemy_foreach\bin\Debug\net10.0\udemy_foreach.pdb
+C:\Users\Zeh\Desktop\Programação\Udemy\Curso C# Logica e algoritmos\Projetos Visual Studio\udemy_foreach\udemy_foreach\obj\Debug\net10.0\udemy_foreach.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Zeh\Desktop\Programação\Udemy\Curso C# Logica e algoritmos\Projetos Visual Studio\udemy_foreach\udemy_foreach\obj\Debug\net10.0\udemy_foreach.AssemblyInfoInputs.cache
+C:\Users\Zeh\Desktop\Programação\Udemy\Curso C# Logica e algoritmos\Projetos Visual Studio\udemy_foreach\udemy_foreach\obj\Debug\net10.0\udemy_foreach.AssemblyInfo.cs
+C:\Users\Zeh\Desktop\Programação\Udemy\Curso C# Logica e algoritmos\Projetos Visual Studio\udemy_foreach\udemy_foreach\obj\Debug\net10.0\udemy_foreach.csproj.CoreCompileInputs.cache
+C:\Users\Zeh\Desktop\Programação\Udemy\Curso C# Logica e algoritmos\Projetos Visual Studio\udemy_foreach\udemy_foreach\obj\Debug\net10.0\udemy_foreach.dll
+C:\Users\Zeh\Desktop\Programação\Udemy\Curso C# Logica e algoritmos\Projetos Visual Studio\udemy_foreach\udemy_foreach\obj\Debug\net10.0\refint\udemy_foreach.dll
+C:\Users\Zeh\Desktop\Programação\Udemy\Curso C# Logica e algoritmos\Projetos Visual Studio\udemy_foreach\udemy_foreach\obj\Debug\net10.0\udemy_foreach.pdb
+C:\Users\Zeh\Desktop\Programação\Udemy\Curso C# Logica e algoritmos\Projetos Visual Studio\udemy_foreach\udemy_foreach\obj\Debug\net10.0\udemy_foreach.genruntimeconfig.cache
+C:\Users\Zeh\Desktop\Programação\Udemy\Curso C# Logica e algoritmos\Projetos Visual Studio\udemy_foreach\udemy_foreach\obj\Debug\net10.0\ref\udemy_foreach.dll

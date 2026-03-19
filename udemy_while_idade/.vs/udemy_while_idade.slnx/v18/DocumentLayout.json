@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Zeh\\Desktop\\Programa\u00E7\u00E3o\\Udemy\\Curso C# Logica e algoritmos\\Projetos Visual Studio\\udemy_while_idade\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0F7E260F-2CD5-483A-8F91-B060D50A5DB6}|udemy_while_idade\\udemy_while_idade.csproj|c:\\users\\zeh\\desktop\\programa\u00E7\u00E3o\\udemy\\curso c# logica e algoritmos\\projetos visual studio\\udemy_while_idade\\udemy_while_idade\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F7E260F-2CD5-483A-8F91-B060D50A5DB6}|udemy_while_idade\\udemy_while_idade.csproj|solutionrelative:udemy_while_idade\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Zeh\\Desktop\\Programa\u00E7\u00E3o\\Udemy\\Curso C# Logica e algoritmos\\Projetos Visual Studio\\udemy_while_idade\\udemy_while_idade\\Program.cs",
+              "RelativeDocumentMoniker": "udemy_while_idade\\Program.cs",
+              "ToolTip": "C:\\Users\\Zeh\\Desktop\\Programa\u00E7\u00E3o\\Udemy\\Curso C# Logica e algoritmos\\Projetos Visual Studio\\udemy_while_idade\\udemy_while_idade\\Program.cs",
+              "RelativeToolTip": "udemy_while_idade\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-12T13:49:57.288Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

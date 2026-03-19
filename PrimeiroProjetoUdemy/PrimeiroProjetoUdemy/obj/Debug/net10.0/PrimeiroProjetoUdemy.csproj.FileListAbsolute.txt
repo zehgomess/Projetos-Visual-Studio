@@ -1,0 +1,14 @@
+C:\Users\Zeh\Desktop\Programação\Udemy\Curso C# Logica e algoritmos\Projetos Visual Studio\PrimeiroProjetoUdemy\PrimeiroProjetoUdemy\bin\Debug\net10.0\PrimeiroProjetoUdemy.exe
+C:\Users\Zeh\Desktop\Programação\Udemy\Curso C# Logica e algoritmos\Projetos Visual Studio\PrimeiroProjetoUdemy\PrimeiroProjetoUdemy\bin\Debug\net10.0\PrimeiroProjetoUdemy.deps.json
+C:\Users\Zeh\Desktop\Programação\Udemy\Curso C# Logica e algoritmos\Projetos Visual Studio\PrimeiroProjetoUdemy\PrimeiroProjetoUdemy\bin\Debug\net10.0\PrimeiroProjetoUdemy.runtimeconfig.json
+C:\Users\Zeh\Desktop\Programação\Udemy\Curso C# Logica e algoritmos\Projetos Visual Studio\PrimeiroProjetoUdemy\PrimeiroProjetoUdemy\bin\Debug\net10.0\PrimeiroProjetoUdemy.dll
+C:\Users\Zeh\Desktop\Programação\Udemy\Curso C# Logica e algoritmos\Projetos Visual Studio\PrimeiroProjetoUdemy\PrimeiroProjetoUdemy\bin\Debug\net10.0\PrimeiroProjetoUdemy.pdb
+C:\Users\Zeh\Desktop\Programação\Udemy\Curso C# Logica e algoritmos\Projetos Visual Studio\PrimeiroProjetoUdemy\PrimeiroProjetoUdemy\obj\Debug\net10.0\PrimeiroProjetoUdemy.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Zeh\Desktop\Programação\Udemy\Curso C# Logica e algoritmos\Projetos Visual Studio\PrimeiroProjetoUdemy\PrimeiroProjetoUdemy\obj\Debug\net10.0\PrimeiroProjetoUdemy.AssemblyInfoInputs.cache
+C:\Users\Zeh\Desktop\Programação\Udemy\Curso C# Logica e algoritmos\Projetos Visual Studio\PrimeiroProjetoUdemy\PrimeiroProjetoUdemy\obj\Debug\net10.0\PrimeiroProjetoUdemy.AssemblyInfo.cs
+C:\Users\Zeh\Desktop\Programação\Udemy\Curso C# Logica e algoritmos\Projetos Visual Studio\PrimeiroProjetoUdemy\PrimeiroProjetoUdemy\obj\Debug\net10.0\PrimeiroProjetoUdemy.csproj.CoreCompileInputs.cache
+C:\Users\Zeh\Desktop\Programação\Udemy\Curso C# Logica e algoritmos\Projetos Visual Studio\PrimeiroProjetoUdemy\PrimeiroProjetoUdemy\obj\Debug\net10.0\PrimeiroProjetoUdemy.dll
+C:\Users\Zeh\Desktop\Programação\Udemy\Curso C# Logica e algoritmos\Projetos Visual Studio\PrimeiroProjetoUdemy\PrimeiroProjetoUdemy\obj\Debug\net10.0\refint\PrimeiroProjetoUdemy.dll
+C:\Users\Zeh\Desktop\Programação\Udemy\Curso C# Logica e algoritmos\Projetos Visual Studio\PrimeiroProjetoUdemy\PrimeiroProjetoUdemy\obj\Debug\net10.0\PrimeiroProjetoUdemy.pdb
+C:\Users\Zeh\Desktop\Programação\Udemy\Curso C# Logica e algoritmos\Projetos Visual Studio\PrimeiroProjetoUdemy\PrimeiroProjetoUdemy\obj\Debug\net10.0\PrimeiroProjetoUdemy.genruntimeconfig.cache
+C:\Users\Zeh\Desktop\Programação\Udemy\Curso C# Logica e algoritmos\Projetos Visual Studio\PrimeiroProjetoUdemy\PrimeiroProjetoUdemy\obj\Debug\net10.0\ref\PrimeiroProjetoUdemy.dll

@@ -1,0 +1,14 @@
+C:\Users\Zeh\Desktop\Programação\Udemy\Curso C# Logica e algoritmos\Projetos Visual Studio\udemy_switch_case\udemy_switch_case\obj\Debug\net10.0\udemy_switch_case.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Zeh\Desktop\Programação\Udemy\Curso C# Logica e algoritmos\Projetos Visual Studio\udemy_switch_case\udemy_switch_case\obj\Debug\net10.0\udemy_switch_case.AssemblyInfoInputs.cache
+C:\Users\Zeh\Desktop\Programação\Udemy\Curso C# Logica e algoritmos\Projetos Visual Studio\udemy_switch_case\udemy_switch_case\obj\Debug\net10.0\udemy_switch_case.AssemblyInfo.cs
+C:\Users\Zeh\Desktop\Programação\Udemy\Curso C# Logica e algoritmos\Projetos Visual Studio\udemy_switch_case\udemy_switch_case\obj\Debug\net10.0\udemy_switch_case.csproj.CoreCompileInputs.cache
+C:\Users\Zeh\Desktop\Programação\Udemy\Curso C# Logica e algoritmos\Projetos Visual Studio\udemy_switch_case\udemy_switch_case\bin\Debug\net10.0\udemy_switch_case.exe
+C:\Users\Zeh\Desktop\Programação\Udemy\Curso C# Logica e algoritmos\Projetos Visual Studio\udemy_switch_case\udemy_switch_case\bin\Debug\net10.0\udemy_switch_case.deps.json
+C:\Users\Zeh\Desktop\Programação\Udemy\Curso C# Logica e algoritmos\Projetos Visual Studio\udemy_switch_case\udemy_switch_case\bin\Debug\net10.0\udemy_switch_case.runtimeconfig.json
+C:\Users\Zeh\Desktop\Programação\Udemy\Curso C# Logica e algoritmos\Projetos Visual Studio\udemy_switch_case\udemy_switch_case\bin\Debug\net10.0\udemy_switch_case.dll
+C:\Users\Zeh\Desktop\Programação\Udemy\Curso C# Logica e algoritmos\Projetos Visual Studio\udemy_switch_case\udemy_switch_case\bin\Debug\net10.0\udemy_switch_case.pdb
+C:\Users\Zeh\Desktop\Programação\Udemy\Curso C# Logica e algoritmos\Projetos Visual Studio\udemy_switch_case\udemy_switch_case\obj\Debug\net10.0\udemy_switch_case.dll
+C:\Users\Zeh\Desktop\Programação\Udemy\Curso C# Logica e algoritmos\Projetos Visual Studio\udemy_switch_case\udemy_switch_case\obj\Debug\net10.0\refint\udemy_switch_case.dll
+C:\Users\Zeh\Desktop\Programação\Udemy\Curso C# Logica e algoritmos\Projetos Visual Studio\udemy_switch_case\udemy_switch_case\obj\Debug\net10.0\udemy_switch_case.pdb
+C:\Users\Zeh\Desktop\Programação\Udemy\Curso C# Logica e algoritmos\Projetos Visual Studio\udemy_switch_case\udemy_switch_case\obj\Debug\net10.0\udemy_switch_case.genruntimeconfig.cache
+C:\Users\Zeh\Desktop\Programação\Udemy\Curso C# Logica e algoritmos\Projetos Visual Studio\udemy_switch_case\udemy_switch_case\obj\Debug\net10.0\ref\udemy_switch_case.dll

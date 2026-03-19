@@ -1,0 +1,14 @@
+C:\Users\Zeh\Desktop\Programação\Udemy\Curso C# Logica e algoritmos\Projetos Visual Studio\Udemy_para_for\Udemy_para_for\obj\Debug\net10.0\Udemy_para_for.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Zeh\Desktop\Programação\Udemy\Curso C# Logica e algoritmos\Projetos Visual Studio\Udemy_para_for\Udemy_para_for\obj\Debug\net10.0\Udemy_para_for.AssemblyInfoInputs.cache
+C:\Users\Zeh\Desktop\Programação\Udemy\Curso C# Logica e algoritmos\Projetos Visual Studio\Udemy_para_for\Udemy_para_for\obj\Debug\net10.0\Udemy_para_for.AssemblyInfo.cs
+C:\Users\Zeh\Desktop\Programação\Udemy\Curso C# Logica e algoritmos\Projetos Visual Studio\Udemy_para_for\Udemy_para_for\obj\Debug\net10.0\Udemy_para_for.csproj.CoreCompileInputs.cache
+C:\Users\Zeh\Desktop\Programação\Udemy\Curso C# Logica e algoritmos\Projetos Visual Studio\Udemy_para_for\Udemy_para_for\bin\Debug\net10.0\Udemy_para_for.exe
+C:\Users\Zeh\Desktop\Programação\Udemy\Curso C# Logica e algoritmos\Projetos Visual Studio\Udemy_para_for\Udemy_para_for\bin\Debug\net10.0\Udemy_para_for.deps.json
+C:\Users\Zeh\Desktop\Programação\Udemy\Curso C# Logica e algoritmos\Projetos Visual Studio\Udemy_para_for\Udemy_para_for\bin\Debug\net10.0\Udemy_para_for.runtimeconfig.json
+C:\Users\Zeh\Desktop\Programação\Udemy\Curso C# Logica e algoritmos\Projetos Visual Studio\Udemy_para_for\Udemy_para_for\bin\Debug\net10.0\Udemy_para_for.dll
+C:\Users\Zeh\Desktop\Programação\Udemy\Curso C# Logica e algoritmos\Projetos Visual Studio\Udemy_para_for\Udemy_para_for\bin\Debug\net10.0\Udemy_para_for.pdb
+C:\Users\Zeh\Desktop\Programação\Udemy\Curso C# Logica e algoritmos\Projetos Visual Studio\Udemy_para_for\Udemy_para_for\obj\Debug\net10.0\Udemy_para_for.dll
+C:\Users\Zeh\Desktop\Programação\Udemy\Curso C# Logica e algoritmos\Projetos Visual Studio\Udemy_para_for\Udemy_para_for\obj\Debug\net10.0\refint\Udemy_para_for.dll
+C:\Users\Zeh\Desktop\Programação\Udemy\Curso C# Logica e algoritmos\Projetos Visual Studio\Udemy_para_for\Udemy_para_for\obj\Debug\net10.0\Udemy_para_for.pdb
+C:\Users\Zeh\Desktop\Programação\Udemy\Curso C# Logica e algoritmos\Projetos Visual Studio\Udemy_para_for\Udemy_para_for\obj\Debug\net10.0\Udemy_para_for.genruntimeconfig.cache
+C:\Users\Zeh\Desktop\Programação\Udemy\Curso C# Logica e algoritmos\Projetos Visual Studio\Udemy_para_for\Udemy_para_for\obj\Debug\net10.0\ref\Udemy_para_for.dll

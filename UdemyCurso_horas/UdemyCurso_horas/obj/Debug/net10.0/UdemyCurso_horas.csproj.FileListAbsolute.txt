@@ -1,0 +1,14 @@
+C:\Users\Zeh\Desktop\Programação\Udemy\Curso C# Logica e algoritmos\Projetos Visual Studio\UdemyCurso_horas\UdemyCurso_horas\obj\Debug\net10.0\UdemyCurso_horas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Zeh\Desktop\Programação\Udemy\Curso C# Logica e algoritmos\Projetos Visual Studio\UdemyCurso_horas\UdemyCurso_horas\obj\Debug\net10.0\UdemyCurso_horas.AssemblyInfoInputs.cache
+C:\Users\Zeh\Desktop\Programação\Udemy\Curso C# Logica e algoritmos\Projetos Visual Studio\UdemyCurso_horas\UdemyCurso_horas\obj\Debug\net10.0\UdemyCurso_horas.AssemblyInfo.cs
+C:\Users\Zeh\Desktop\Programação\Udemy\Curso C# Logica e algoritmos\Projetos Visual Studio\UdemyCurso_horas\UdemyCurso_horas\obj\Debug\net10.0\UdemyCurso_horas.csproj.CoreCompileInputs.cache
+C:\Users\Zeh\Desktop\Programação\Udemy\Curso C# Logica e algoritmos\Projetos Visual Studio\UdemyCurso_horas\UdemyCurso_horas\bin\Debug\net10.0\UdemyCurso_horas.exe
+C:\Users\Zeh\Desktop\Programação\Udemy\Curso C# Logica e algoritmos\Projetos Visual Studio\UdemyCurso_horas\UdemyCurso_horas\bin\Debug\net10.0\UdemyCurso_horas.deps.json
+C:\Users\Zeh\Desktop\Programação\Udemy\Curso C# Logica e algoritmos\Projetos Visual Studio\UdemyCurso_horas\UdemyCurso_horas\bin\Debug\net10.0\UdemyCurso_horas.runtimeconfig.json
+C:\Users\Zeh\Desktop\Programação\Udemy\Curso C# Logica e algoritmos\Projetos Visual Studio\UdemyCurso_horas\UdemyCurso_horas\bin\Debug\net10.0\UdemyCurso_horas.dll
+C:\Users\Zeh\Desktop\Programação\Udemy\Curso C# Logica e algoritmos\Projetos Visual Studio\UdemyCurso_horas\UdemyCurso_horas\bin\Debug\net10.0\UdemyCurso_horas.pdb
+C:\Users\Zeh\Desktop\Programação\Udemy\Curso C# Logica e algoritmos\Projetos Visual Studio\UdemyCurso_horas\UdemyCurso_horas\obj\Debug\net10.0\UdemyCurso_horas.dll
+C:\Users\Zeh\Desktop\Programação\Udemy\Curso C# Logica e algoritmos\Projetos Visual Studio\UdemyCurso_horas\UdemyCurso_horas\obj\Debug\net10.0\refint\UdemyCurso_horas.dll
+C:\Users\Zeh\Desktop\Programação\Udemy\Curso C# Logica e algoritmos\Projetos Visual Studio\UdemyCurso_horas\UdemyCurso_horas\obj\Debug\net10.0\UdemyCurso_horas.pdb
+C:\Users\Zeh\Desktop\Programação\Udemy\Curso C# Logica e algoritmos\Projetos Visual Studio\UdemyCurso_horas\UdemyCurso_horas\obj\Debug\net10.0\UdemyCurso_horas.genruntimeconfig.cache
+C:\Users\Zeh\Desktop\Programação\Udemy\Curso C# Logica e algoritmos\Projetos Visual Studio\UdemyCurso_horas\UdemyCurso_horas\obj\Debug\net10.0\ref\UdemyCurso_horas.dll

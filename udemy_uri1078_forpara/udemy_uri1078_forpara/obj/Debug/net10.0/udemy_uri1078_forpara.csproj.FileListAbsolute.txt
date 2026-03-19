@@ -1,0 +1,14 @@
+C:\Users\Zeh\Desktop\Programação\Udemy\Curso C# Logica e algoritmos\Projetos Visual Studio\udemy_uri1078_forpara\udemy_uri1078_forpara\obj\Debug\net10.0\udemy_uri1078_forpara.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Zeh\Desktop\Programação\Udemy\Curso C# Logica e algoritmos\Projetos Visual Studio\udemy_uri1078_forpara\udemy_uri1078_forpara\obj\Debug\net10.0\udemy_uri1078_forpara.AssemblyInfoInputs.cache
+C:\Users\Zeh\Desktop\Programação\Udemy\Curso C# Logica e algoritmos\Projetos Visual Studio\udemy_uri1078_forpara\udemy_uri1078_forpara\obj\Debug\net10.0\udemy_uri1078_forpara.AssemblyInfo.cs
+C:\Users\Zeh\Desktop\Programação\Udemy\Curso C# Logica e algoritmos\Projetos Visual Studio\udemy_uri1078_forpara\udemy_uri1078_forpara\obj\Debug\net10.0\udemy_uri1078_forpara.csproj.CoreCompileInputs.cache
+C:\Users\Zeh\Desktop\Programação\Udemy\Curso C# Logica e algoritmos\Projetos Visual Studio\udemy_uri1078_forpara\udemy_uri1078_forpara\bin\Debug\net10.0\udemy_uri1078_forpara.exe
+C:\Users\Zeh\Desktop\Programação\Udemy\Curso C# Logica e algoritmos\Projetos Visual Studio\udemy_uri1078_forpara\udemy_uri1078_forpara\bin\Debug\net10.0\udemy_uri1078_forpara.deps.json
+C:\Users\Zeh\Desktop\Programação\Udemy\Curso C# Logica e algoritmos\Projetos Visual Studio\udemy_uri1078_forpara\udemy_uri1078_forpara\bin\Debug\net10.0\udemy_uri1078_forpara.runtimeconfig.json
+C:\Users\Zeh\Desktop\Programação\Udemy\Curso C# Logica e algoritmos\Projetos Visual Studio\udemy_uri1078_forpara\udemy_uri1078_forpara\bin\Debug\net10.0\udemy_uri1078_forpara.dll
+C:\Users\Zeh\Desktop\Programação\Udemy\Curso C# Logica e algoritmos\Projetos Visual Studio\udemy_uri1078_forpara\udemy_uri1078_forpara\bin\Debug\net10.0\udemy_uri1078_forpara.pdb
+C:\Users\Zeh\Desktop\Programação\Udemy\Curso C# Logica e algoritmos\Projetos Visual Studio\udemy_uri1078_forpara\udemy_uri1078_forpara\obj\Debug\net10.0\udemy_uri1078_forpara.dll
+C:\Users\Zeh\Desktop\Programação\Udemy\Curso C# Logica e algoritmos\Projetos Visual Studio\udemy_uri1078_forpara\udemy_uri1078_forpara\obj\Debug\net10.0\refint\udemy_uri1078_forpara.dll
+C:\Users\Zeh\Desktop\Programação\Udemy\Curso C# Logica e algoritmos\Projetos Visual Studio\udemy_uri1078_forpara\udemy_uri1078_forpara\obj\Debug\net10.0\udemy_uri1078_forpara.pdb
+C:\Users\Zeh\Desktop\Programação\Udemy\Curso C# Logica e algoritmos\Projetos Visual Studio\udemy_uri1078_forpara\udemy_uri1078_forpara\obj\Debug\net10.0\udemy_uri1078_forpara.genruntimeconfig.cache
+C:\Users\Zeh\Desktop\Programação\Udemy\Curso C# Logica e algoritmos\Projetos Visual Studio\udemy_uri1078_forpara\udemy_uri1078_forpara\obj\Debug\net10.0\ref\udemy_uri1078_forpara.dll

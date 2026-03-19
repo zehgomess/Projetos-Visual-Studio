@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Zeh\\Desktop\\Programa\u00E7\u00E3o\\Udemy\\Curso C# Logica e algoritmos\\Projetos Visual Studio\\udmy_classe_estoque_produto\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B0F81123-A246-B17A-4173-311CB0C8054A}|udmy_classe_estoque_produto\\udmy_classe_estoque_produto.csproj|c:\\users\\zeh\\desktop\\programa\u00E7\u00E3o\\udemy\\curso c# logica e algoritmos\\projetos visual studio\\udmy_classe_estoque_produto\\udmy_classe_estoque_produto\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B0F81123-A246-B17A-4173-311CB0C8054A}|udmy_classe_estoque_produto\\udmy_classe_estoque_produto.csproj|solutionrelative:udmy_classe_estoque_produto\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0F81123-A246-B17A-4173-311CB0C8054A}|udmy_classe_estoque_produto\\udmy_classe_estoque_produto.csproj|c:\\users\\zeh\\desktop\\programa\u00E7\u00E3o\\udemy\\curso c# logica e algoritmos\\projetos visual studio\\udmy_classe_estoque_produto\\udmy_classe_estoque_produto\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B0F81123-A246-B17A-4173-311CB0C8054A}|udmy_classe_estoque_produto\\udmy_classe_estoque_produto.csproj|solutionrelative:udmy_classe_estoque_produto\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\Zeh\\Desktop\\Programa\u00E7\u00E3o\\Udemy\\Curso C# Logica e algoritmos\\Projetos Visual Studio\\udmy_classe_estoque_produto\\udmy_classe_estoque_produto\\Class1.cs",
+              "RelativeDocumentMoniker": "udmy_classe_estoque_produto\\Class1.cs",
+              "ToolTip": "C:\\Users\\Zeh\\Desktop\\Programa\u00E7\u00E3o\\Udemy\\Curso C# Logica e algoritmos\\Projetos Visual Studio\\udmy_classe_estoque_produto\\udmy_classe_estoque_produto\\Class1.cs",
+              "RelativeToolTip": "udmy_classe_estoque_produto\\Class1.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAQwDQAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-02T13:51:30.076Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Zeh\\Desktop\\Programa\u00E7\u00E3o\\Udemy\\Curso C# Logica e algoritmos\\Projetos Visual Studio\\udmy_classe_estoque_produto\\udmy_classe_estoque_produto\\Program.cs",
+              "RelativeDocumentMoniker": "udmy_classe_estoque_produto\\Program.cs",
+              "ToolTip": "C:\\Users\\Zeh\\Desktop\\Programa\u00E7\u00E3o\\Udemy\\Curso C# Logica e algoritmos\\Projetos Visual Studio\\udmy_classe_estoque_produto\\udmy_classe_estoque_produto\\Program.cs",
+              "RelativeToolTip": "udmy_classe_estoque_produto\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-02T13:48:36.317Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

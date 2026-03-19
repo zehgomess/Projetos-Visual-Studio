@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "udmy_classe_estoque_produto/1.0.0": {
+        "runtime": {
+          "udmy_classe_estoque_produto.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "udmy_classe_estoque_produto/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

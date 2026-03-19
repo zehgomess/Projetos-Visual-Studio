@@ -1,0 +1,14 @@
+C:\Users\Zeh\Desktop\Programação\Udemy\Curso C# Logica e algoritmos\Projetos Visual Studio\udemy_do_while\udemy_do_while\obj\Debug\net10.0\udemy_do_while.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Zeh\Desktop\Programação\Udemy\Curso C# Logica e algoritmos\Projetos Visual Studio\udemy_do_while\udemy_do_while\obj\Debug\net10.0\udemy_do_while.AssemblyInfoInputs.cache
+C:\Users\Zeh\Desktop\Programação\Udemy\Curso C# Logica e algoritmos\Projetos Visual Studio\udemy_do_while\udemy_do_while\obj\Debug\net10.0\udemy_do_while.AssemblyInfo.cs
+C:\Users\Zeh\Desktop\Programação\Udemy\Curso C# Logica e algoritmos\Projetos Visual Studio\udemy_do_while\udemy_do_while\obj\Debug\net10.0\udemy_do_while.csproj.CoreCompileInputs.cache
+C:\Users\Zeh\Desktop\Programação\Udemy\Curso C# Logica e algoritmos\Projetos Visual Studio\udemy_do_while\udemy_do_while\bin\Debug\net10.0\udemy_do_while.exe
+C:\Users\Zeh\Desktop\Programação\Udemy\Curso C# Logica e algoritmos\Projetos Visual Studio\udemy_do_while\udemy_do_while\bin\Debug\net10.0\udemy_do_while.deps.json
+C:\Users\Zeh\Desktop\Programação\Udemy\Curso C# Logica e algoritmos\Projetos Visual Studio\udemy_do_while\udemy_do_while\bin\Debug\net10.0\udemy_do_while.runtimeconfig.json
+C:\Users\Zeh\Desktop\Programação\Udemy\Curso C# Logica e algoritmos\Projetos Visual Studio\udemy_do_while\udemy_do_while\bin\Debug\net10.0\udemy_do_while.dll
+C:\Users\Zeh\Desktop\Programação\Udemy\Curso C# Logica e algoritmos\Projetos Visual Studio\udemy_do_while\udemy_do_while\bin\Debug\net10.0\udemy_do_while.pdb
+C:\Users\Zeh\Desktop\Programação\Udemy\Curso C# Logica e algoritmos\Projetos Visual Studio\udemy_do_while\udemy_do_while\obj\Debug\net10.0\udemy_do_while.dll
+C:\Users\Zeh\Desktop\Programação\Udemy\Curso C# Logica e algoritmos\Projetos Visual Studio\udemy_do_while\udemy_do_while\obj\Debug\net10.0\refint\udemy_do_while.dll
+C:\Users\Zeh\Desktop\Programação\Udemy\Curso C# Logica e algoritmos\Projetos Visual Studio\udemy_do_while\udemy_do_while\obj\Debug\net10.0\udemy_do_while.pdb
+C:\Users\Zeh\Desktop\Programação\Udemy\Curso C# Logica e algoritmos\Projetos Visual Studio\udemy_do_while\udemy_do_while\obj\Debug\net10.0\udemy_do_while.genruntimeconfig.cache
+C:\Users\Zeh\Desktop\Programação\Udemy\Curso C# Logica e algoritmos\Projetos Visual Studio\udemy_do_while\udemy_do_while\obj\Debug\net10.0\ref\udemy_do_while.dll

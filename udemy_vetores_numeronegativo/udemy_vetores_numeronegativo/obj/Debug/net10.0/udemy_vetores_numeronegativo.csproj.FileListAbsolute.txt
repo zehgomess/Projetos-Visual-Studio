@@ -1,0 +1,14 @@
+C:\Users\Zeh\Desktop\Programação\Udemy\Curso C# Logica e algoritmos\Projetos Visual Studio\udemy_vetores_numeronegativo\udemy_vetores_numeronegativo\bin\Debug\net10.0\udemy_vetores_numeronegativo.exe
+C:\Users\Zeh\Desktop\Programação\Udemy\Curso C# Logica e algoritmos\Projetos Visual Studio\udemy_vetores_numeronegativo\udemy_vetores_numeronegativo\bin\Debug\net10.0\udemy_vetores_numeronegativo.deps.json
+C:\Users\Zeh\Desktop\Programação\Udemy\Curso C# Logica e algoritmos\Projetos Visual Studio\udemy_vetores_numeronegativo\udemy_vetores_numeronegativo\bin\Debug\net10.0\udemy_vetores_numeronegativo.runtimeconfig.json
+C:\Users\Zeh\Desktop\Programação\Udemy\Curso C# Logica e algoritmos\Projetos Visual Studio\udemy_vetores_numeronegativo\udemy_vetores_numeronegativo\bin\Debug\net10.0\udemy_vetores_numeronegativo.dll
+C:\Users\Zeh\Desktop\Programação\Udemy\Curso C# Logica e algoritmos\Projetos Visual Studio\udemy_vetores_numeronegativo\udemy_vetores_numeronegativo\bin\Debug\net10.0\udemy_vetores_numeronegativo.pdb
+C:\Users\Zeh\Desktop\Programação\Udemy\Curso C# Logica e algoritmos\Projetos Visual Studio\udemy_vetores_numeronegativo\udemy_vetores_numeronegativo\obj\Debug\net10.0\udemy_vetores_numeronegativo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Zeh\Desktop\Programação\Udemy\Curso C# Logica e algoritmos\Projetos Visual Studio\udemy_vetores_numeronegativo\udemy_vetores_numeronegativo\obj\Debug\net10.0\udemy_vetores_numeronegativo.AssemblyInfoInputs.cache
+C:\Users\Zeh\Desktop\Programação\Udemy\Curso C# Logica e algoritmos\Projetos Visual Studio\udemy_vetores_numeronegativo\udemy_vetores_numeronegativo\obj\Debug\net10.0\udemy_vetores_numeronegativo.AssemblyInfo.cs
+C:\Users\Zeh\Desktop\Programação\Udemy\Curso C# Logica e algoritmos\Projetos Visual Studio\udemy_vetores_numeronegativo\udemy_vetores_numeronegativo\obj\Debug\net10.0\udemy_vetores_numeronegativo.csproj.CoreCompileInputs.cache
+C:\Users\Zeh\Desktop\Programação\Udemy\Curso C# Logica e algoritmos\Projetos Visual Studio\udemy_vetores_numeronegativo\udemy_vetores_numeronegativo\obj\Debug\net10.0\udemy_vetores_numeronegativo.dll
+C:\Users\Zeh\Desktop\Programação\Udemy\Curso C# Logica e algoritmos\Projetos Visual Studio\udemy_vetores_numeronegativo\udemy_vetores_numeronegativo\obj\Debug\net10.0\refint\udemy_vetores_numeronegativo.dll
+C:\Users\Zeh\Desktop\Programação\Udemy\Curso C# Logica e algoritmos\Projetos Visual Studio\udemy_vetores_numeronegativo\udemy_vetores_numeronegativo\obj\Debug\net10.0\udemy_vetores_numeronegativo.pdb
+C:\Users\Zeh\Desktop\Programação\Udemy\Curso C# Logica e algoritmos\Projetos Visual Studio\udemy_vetores_numeronegativo\udemy_vetores_numeronegativo\obj\Debug\net10.0\udemy_vetores_numeronegativo.genruntimeconfig.cache
+C:\Users\Zeh\Desktop\Programação\Udemy\Curso C# Logica e algoritmos\Projetos Visual Studio\udemy_vetores_numeronegativo\udemy_vetores_numeronegativo\obj\Debug\net10.0\ref\udemy_vetores_numeronegativo.dll

@@ -1,0 +1,14 @@
+C:\Users\Zeh\Desktop\Programação\Udemy\Curso C# Logica e algoritmos\Projetos Visual Studio\udemy_while_idade\udemy_while_idade\obj\Debug\net10.0\udemy_while_idade.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Zeh\Desktop\Programação\Udemy\Curso C# Logica e algoritmos\Projetos Visual Studio\udemy_while_idade\udemy_while_idade\obj\Debug\net10.0\udemy_while_idade.AssemblyInfoInputs.cache
+C:\Users\Zeh\Desktop\Programação\Udemy\Curso C# Logica e algoritmos\Projetos Visual Studio\udemy_while_idade\udemy_while_idade\obj\Debug\net10.0\udemy_while_idade.AssemblyInfo.cs
+C:\Users\Zeh\Desktop\Programação\Udemy\Curso C# Logica e algoritmos\Projetos Visual Studio\udemy_while_idade\udemy_while_idade\obj\Debug\net10.0\udemy_while_idade.csproj.CoreCompileInputs.cache
+C:\Users\Zeh\Desktop\Programação\Udemy\Curso C# Logica e algoritmos\Projetos Visual Studio\udemy_while_idade\udemy_while_idade\bin\Debug\net10.0\udemy_while_idade.exe
+C:\Users\Zeh\Desktop\Programação\Udemy\Curso C# Logica e algoritmos\Projetos Visual Studio\udemy_while_idade\udemy_while_idade\bin\Debug\net10.0\udemy_while_idade.deps.json
+C:\Users\Zeh\Desktop\Programação\Udemy\Curso C# Logica e algoritmos\Projetos Visual Studio\udemy_while_idade\udemy_while_idade\bin\Debug\net10.0\udemy_while_idade.runtimeconfig.json
+C:\Users\Zeh\Desktop\Programação\Udemy\Curso C# Logica e algoritmos\Projetos Visual Studio\udemy_while_idade\udemy_while_idade\bin\Debug\net10.0\udemy_while_idade.dll
+C:\Users\Zeh\Desktop\Programação\Udemy\Curso C# Logica e algoritmos\Projetos Visual Studio\udemy_while_idade\udemy_while_idade\bin\Debug\net10.0\udemy_while_idade.pdb
+C:\Users\Zeh\Desktop\Programação\Udemy\Curso C# Logica e algoritmos\Projetos Visual Studio\udemy_while_idade\udemy_while_idade\obj\Debug\net10.0\udemy_while_idade.dll
+C:\Users\Zeh\Desktop\Programação\Udemy\Curso C# Logica e algoritmos\Projetos Visual Studio\udemy_while_idade\udemy_while_idade\obj\Debug\net10.0\refint\udemy_while_idade.dll
+C:\Users\Zeh\Desktop\Programação\Udemy\Curso C# Logica e algoritmos\Projetos Visual Studio\udemy_while_idade\udemy_while_idade\obj\Debug\net10.0\udemy_while_idade.pdb
+C:\Users\Zeh\Desktop\Programação\Udemy\Curso C# Logica e algoritmos\Projetos Visual Studio\udemy_while_idade\udemy_while_idade\obj\Debug\net10.0\udemy_while_idade.genruntimeconfig.cache
+C:\Users\Zeh\Desktop\Programação\Udemy\Curso C# Logica e algoritmos\Projetos Visual Studio\udemy_while_idade\udemy_while_idade\obj\Debug\net10.0\ref\udemy_while_idade.dll

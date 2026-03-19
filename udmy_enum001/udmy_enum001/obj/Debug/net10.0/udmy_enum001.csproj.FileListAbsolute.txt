@@ -1,0 +1,14 @@
+C:\Users\Zeh\Desktop\Programação\Udemy\Curso C# Logica e algoritmos\Projetos Visual Studio\udmy_enum001\udmy_enum001\bin\Debug\net10.0\udmy_enum001.exe
+C:\Users\Zeh\Desktop\Programação\Udemy\Curso C# Logica e algoritmos\Projetos Visual Studio\udmy_enum001\udmy_enum001\bin\Debug\net10.0\udmy_enum001.deps.json
+C:\Users\Zeh\Desktop\Programação\Udemy\Curso C# Logica e algoritmos\Projetos Visual Studio\udmy_enum001\udmy_enum001\bin\Debug\net10.0\udmy_enum001.runtimeconfig.json
+C:\Users\Zeh\Desktop\Programação\Udemy\Curso C# Logica e algoritmos\Projetos Visual Studio\udmy_enum001\udmy_enum001\bin\Debug\net10.0\udmy_enum001.dll
+C:\Users\Zeh\Desktop\Programação\Udemy\Curso C# Logica e algoritmos\Projetos Visual Studio\udmy_enum001\udmy_enum001\bin\Debug\net10.0\udmy_enum001.pdb
+C:\Users\Zeh\Desktop\Programação\Udemy\Curso C# Logica e algoritmos\Projetos Visual Studio\udmy_enum001\udmy_enum001\obj\Debug\net10.0\udmy_enum001.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Zeh\Desktop\Programação\Udemy\Curso C# Logica e algoritmos\Projetos Visual Studio\udmy_enum001\udmy_enum001\obj\Debug\net10.0\udmy_enum001.AssemblyInfoInputs.cache
+C:\Users\Zeh\Desktop\Programação\Udemy\Curso C# Logica e algoritmos\Projetos Visual Studio\udmy_enum001\udmy_enum001\obj\Debug\net10.0\udmy_enum001.AssemblyInfo.cs
+C:\Users\Zeh\Desktop\Programação\Udemy\Curso C# Logica e algoritmos\Projetos Visual Studio\udmy_enum001\udmy_enum001\obj\Debug\net10.0\udmy_enum001.csproj.CoreCompileInputs.cache
+C:\Users\Zeh\Desktop\Programação\Udemy\Curso C# Logica e algoritmos\Projetos Visual Studio\udmy_enum001\udmy_enum001\obj\Debug\net10.0\udmy_enum001.dll
+C:\Users\Zeh\Desktop\Programação\Udemy\Curso C# Logica e algoritmos\Projetos Visual Studio\udmy_enum001\udmy_enum001\obj\Debug\net10.0\refint\udmy_enum001.dll
+C:\Users\Zeh\Desktop\Programação\Udemy\Curso C# Logica e algoritmos\Projetos Visual Studio\udmy_enum001\udmy_enum001\obj\Debug\net10.0\udmy_enum001.pdb
+C:\Users\Zeh\Desktop\Programação\Udemy\Curso C# Logica e algoritmos\Projetos Visual Studio\udmy_enum001\udmy_enum001\obj\Debug\net10.0\udmy_enum001.genruntimeconfig.cache
+C:\Users\Zeh\Desktop\Programação\Udemy\Curso C# Logica e algoritmos\Projetos Visual Studio\udmy_enum001\udmy_enum001\obj\Debug\net10.0\ref\udmy_enum001.dll

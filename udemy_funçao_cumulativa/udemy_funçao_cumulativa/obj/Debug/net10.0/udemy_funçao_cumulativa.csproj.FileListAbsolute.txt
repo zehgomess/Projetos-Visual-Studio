@@ -1,0 +1,14 @@
+C:\Users\Zeh\Desktop\Programação\Udemy\Curso C# Logica e algoritmos\Projetos Visual Studio\udemy_funçao_cumulativa\udemy_funçao_cumulativa\bin\Debug\net10.0\udemy_funçao_cumulativa.exe
+C:\Users\Zeh\Desktop\Programação\Udemy\Curso C# Logica e algoritmos\Projetos Visual Studio\udemy_funçao_cumulativa\udemy_funçao_cumulativa\bin\Debug\net10.0\udemy_funçao_cumulativa.deps.json
+C:\Users\Zeh\Desktop\Programação\Udemy\Curso C# Logica e algoritmos\Projetos Visual Studio\udemy_funçao_cumulativa\udemy_funçao_cumulativa\bin\Debug\net10.0\udemy_funçao_cumulativa.runtimeconfig.json
+C:\Users\Zeh\Desktop\Programação\Udemy\Curso C# Logica e algoritmos\Projetos Visual Studio\udemy_funçao_cumulativa\udemy_funçao_cumulativa\bin\Debug\net10.0\udemy_funçao_cumulativa.dll
+C:\Users\Zeh\Desktop\Programação\Udemy\Curso C# Logica e algoritmos\Projetos Visual Studio\udemy_funçao_cumulativa\udemy_funçao_cumulativa\bin\Debug\net10.0\udemy_funçao_cumulativa.pdb
+C:\Users\Zeh\Desktop\Programação\Udemy\Curso C# Logica e algoritmos\Projetos Visual Studio\udemy_funçao_cumulativa\udemy_funçao_cumulativa\obj\Debug\net10.0\udemy_funçao_cumulativa.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Zeh\Desktop\Programação\Udemy\Curso C# Logica e algoritmos\Projetos Visual Studio\udemy_funçao_cumulativa\udemy_funçao_cumulativa\obj\Debug\net10.0\udemy_funçao_cumulativa.AssemblyInfoInputs.cache
+C:\Users\Zeh\Desktop\Programação\Udemy\Curso C# Logica e algoritmos\Projetos Visual Studio\udemy_funçao_cumulativa\udemy_funçao_cumulativa\obj\Debug\net10.0\udemy_funçao_cumulativa.AssemblyInfo.cs
+C:\Users\Zeh\Desktop\Programação\Udemy\Curso C# Logica e algoritmos\Projetos Visual Studio\udemy_funçao_cumulativa\udemy_funçao_cumulativa\obj\Debug\net10.0\udemy_funçao_cumulativa.csproj.CoreCompileInputs.cache
+C:\Users\Zeh\Desktop\Programação\Udemy\Curso C# Logica e algoritmos\Projetos Visual Studio\udemy_funçao_cumulativa\udemy_funçao_cumulativa\obj\Debug\net10.0\udemy_funçao_cumulativa.dll
+C:\Users\Zeh\Desktop\Programação\Udemy\Curso C# Logica e algoritmos\Projetos Visual Studio\udemy_funçao_cumulativa\udemy_funçao_cumulativa\obj\Debug\net10.0\refint\udemy_funçao_cumulativa.dll
+C:\Users\Zeh\Desktop\Programação\Udemy\Curso C# Logica e algoritmos\Projetos Visual Studio\udemy_funçao_cumulativa\udemy_funçao_cumulativa\obj\Debug\net10.0\udemy_funçao_cumulativa.pdb
+C:\Users\Zeh\Desktop\Programação\Udemy\Curso C# Logica e algoritmos\Projetos Visual Studio\udemy_funçao_cumulativa\udemy_funçao_cumulativa\obj\Debug\net10.0\udemy_funçao_cumulativa.genruntimeconfig.cache
+C:\Users\Zeh\Desktop\Programação\Udemy\Curso C# Logica e algoritmos\Projetos Visual Studio\udemy_funçao_cumulativa\udemy_funçao_cumulativa\obj\Debug\net10.0\ref\udemy_funçao_cumulativa.dll

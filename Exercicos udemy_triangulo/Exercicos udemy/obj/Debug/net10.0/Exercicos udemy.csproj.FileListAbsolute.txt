@@ -1,0 +1,14 @@
+C:\Users\Zeh\Desktop\Programação\Udemy\Curso C# Logica e algoritmos\Projetos Visual Studio\Exercicos udemy\Exercicos udemy\obj\Debug\net10.0\Exercicos udemy.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Zeh\Desktop\Programação\Udemy\Curso C# Logica e algoritmos\Projetos Visual Studio\Exercicos udemy\Exercicos udemy\obj\Debug\net10.0\Exercicos udemy.AssemblyInfoInputs.cache
+C:\Users\Zeh\Desktop\Programação\Udemy\Curso C# Logica e algoritmos\Projetos Visual Studio\Exercicos udemy\Exercicos udemy\obj\Debug\net10.0\Exercicos udemy.AssemblyInfo.cs
+C:\Users\Zeh\Desktop\Programação\Udemy\Curso C# Logica e algoritmos\Projetos Visual Studio\Exercicos udemy\Exercicos udemy\obj\Debug\net10.0\Exercicos udemy.csproj.CoreCompileInputs.cache
+C:\Users\Zeh\Desktop\Programação\Udemy\Curso C# Logica e algoritmos\Projetos Visual Studio\Exercicos udemy\Exercicos udemy\bin\Debug\net10.0\Exercicos udemy.exe
+C:\Users\Zeh\Desktop\Programação\Udemy\Curso C# Logica e algoritmos\Projetos Visual Studio\Exercicos udemy\Exercicos udemy\bin\Debug\net10.0\Exercicos udemy.deps.json
+C:\Users\Zeh\Desktop\Programação\Udemy\Curso C# Logica e algoritmos\Projetos Visual Studio\Exercicos udemy\Exercicos udemy\bin\Debug\net10.0\Exercicos udemy.runtimeconfig.json
+C:\Users\Zeh\Desktop\Programação\Udemy\Curso C# Logica e algoritmos\Projetos Visual Studio\Exercicos udemy\Exercicos udemy\bin\Debug\net10.0\Exercicos udemy.dll
+C:\Users\Zeh\Desktop\Programação\Udemy\Curso C# Logica e algoritmos\Projetos Visual Studio\Exercicos udemy\Exercicos udemy\bin\Debug\net10.0\Exercicos udemy.pdb
+C:\Users\Zeh\Desktop\Programação\Udemy\Curso C# Logica e algoritmos\Projetos Visual Studio\Exercicos udemy\Exercicos udemy\obj\Debug\net10.0\Exercicos udemy.dll
+C:\Users\Zeh\Desktop\Programação\Udemy\Curso C# Logica e algoritmos\Projetos Visual Studio\Exercicos udemy\Exercicos udemy\obj\Debug\net10.0\refint\Exercicos udemy.dll
+C:\Users\Zeh\Desktop\Programação\Udemy\Curso C# Logica e algoritmos\Projetos Visual Studio\Exercicos udemy\Exercicos udemy\obj\Debug\net10.0\Exercicos udemy.pdb
+C:\Users\Zeh\Desktop\Programação\Udemy\Curso C# Logica e algoritmos\Projetos Visual Studio\Exercicos udemy\Exercicos udemy\obj\Debug\net10.0\Exercicos udemy.genruntimeconfig.cache
+C:\Users\Zeh\Desktop\Programação\Udemy\Curso C# Logica e algoritmos\Projetos Visual Studio\Exercicos udemy\Exercicos udemy\obj\Debug\net10.0\ref\Exercicos udemy.dll

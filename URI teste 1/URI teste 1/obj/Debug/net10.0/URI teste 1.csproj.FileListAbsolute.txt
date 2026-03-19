@@ -1,0 +1,14 @@
+C:\Users\Zeh\Desktop\Programação\Udemy\Curso C# Logica e algoritmos\Projetos Visual Studio\URI teste 1\URI teste 1\obj\Debug\net10.0\URI teste 1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Zeh\Desktop\Programação\Udemy\Curso C# Logica e algoritmos\Projetos Visual Studio\URI teste 1\URI teste 1\obj\Debug\net10.0\URI teste 1.AssemblyInfoInputs.cache
+C:\Users\Zeh\Desktop\Programação\Udemy\Curso C# Logica e algoritmos\Projetos Visual Studio\URI teste 1\URI teste 1\obj\Debug\net10.0\URI teste 1.AssemblyInfo.cs
+C:\Users\Zeh\Desktop\Programação\Udemy\Curso C# Logica e algoritmos\Projetos Visual Studio\URI teste 1\URI teste 1\obj\Debug\net10.0\URI teste 1.csproj.CoreCompileInputs.cache
+C:\Users\Zeh\Desktop\Programação\Udemy\Curso C# Logica e algoritmos\Projetos Visual Studio\URI teste 1\URI teste 1\bin\Debug\net10.0\URI teste 1.exe
+C:\Users\Zeh\Desktop\Programação\Udemy\Curso C# Logica e algoritmos\Projetos Visual Studio\URI teste 1\URI teste 1\bin\Debug\net10.0\URI teste 1.deps.json
+C:\Users\Zeh\Desktop\Programação\Udemy\Curso C# Logica e algoritmos\Projetos Visual Studio\URI teste 1\URI teste 1\bin\Debug\net10.0\URI teste 1.runtimeconfig.json
+C:\Users\Zeh\Desktop\Programação\Udemy\Curso C# Logica e algoritmos\Projetos Visual Studio\URI teste 1\URI teste 1\bin\Debug\net10.0\URI teste 1.dll
+C:\Users\Zeh\Desktop\Programação\Udemy\Curso C# Logica e algoritmos\Projetos Visual Studio\URI teste 1\URI teste 1\bin\Debug\net10.0\URI teste 1.pdb
+C:\Users\Zeh\Desktop\Programação\Udemy\Curso C# Logica e algoritmos\Projetos Visual Studio\URI teste 1\URI teste 1\obj\Debug\net10.0\URI teste 1.dll
+C:\Users\Zeh\Desktop\Programação\Udemy\Curso C# Logica e algoritmos\Projetos Visual Studio\URI teste 1\URI teste 1\obj\Debug\net10.0\refint\URI teste 1.dll
+C:\Users\Zeh\Desktop\Programação\Udemy\Curso C# Logica e algoritmos\Projetos Visual Studio\URI teste 1\URI teste 1\obj\Debug\net10.0\URI teste 1.pdb
+C:\Users\Zeh\Desktop\Programação\Udemy\Curso C# Logica e algoritmos\Projetos Visual Studio\URI teste 1\URI teste 1\obj\Debug\net10.0\URI teste 1.genruntimeconfig.cache
+C:\Users\Zeh\Desktop\Programação\Udemy\Curso C# Logica e algoritmos\Projetos Visual Studio\URI teste 1\URI teste 1\obj\Debug\net10.0\ref\URI teste 1.dll

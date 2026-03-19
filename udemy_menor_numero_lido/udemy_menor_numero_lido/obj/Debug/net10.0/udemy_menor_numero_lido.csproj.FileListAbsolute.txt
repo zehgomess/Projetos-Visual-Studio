@@ -1,0 +1,14 @@
+C:\Users\Zeh\Desktop\Programação\Udemy\Curso C# Logica e algoritmos\Projetos Visual Studio\udemy_menor_numero_lido\udemy_menor_numero_lido\obj\Debug\net10.0\udemy_menor_numero_lido.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Zeh\Desktop\Programação\Udemy\Curso C# Logica e algoritmos\Projetos Visual Studio\udemy_menor_numero_lido\udemy_menor_numero_lido\obj\Debug\net10.0\udemy_menor_numero_lido.AssemblyInfoInputs.cache
+C:\Users\Zeh\Desktop\Programação\Udemy\Curso C# Logica e algoritmos\Projetos Visual Studio\udemy_menor_numero_lido\udemy_menor_numero_lido\obj\Debug\net10.0\udemy_menor_numero_lido.AssemblyInfo.cs
+C:\Users\Zeh\Desktop\Programação\Udemy\Curso C# Logica e algoritmos\Projetos Visual Studio\udemy_menor_numero_lido\udemy_menor_numero_lido\obj\Debug\net10.0\udemy_menor_numero_lido.csproj.CoreCompileInputs.cache
+C:\Users\Zeh\Desktop\Programação\Udemy\Curso C# Logica e algoritmos\Projetos Visual Studio\udemy_menor_numero_lido\udemy_menor_numero_lido\bin\Debug\net10.0\udemy_menor_numero_lido.exe
+C:\Users\Zeh\Desktop\Programação\Udemy\Curso C# Logica e algoritmos\Projetos Visual Studio\udemy_menor_numero_lido\udemy_menor_numero_lido\bin\Debug\net10.0\udemy_menor_numero_lido.deps.json
+C:\Users\Zeh\Desktop\Programação\Udemy\Curso C# Logica e algoritmos\Projetos Visual Studio\udemy_menor_numero_lido\udemy_menor_numero_lido\bin\Debug\net10.0\udemy_menor_numero_lido.runtimeconfig.json
+C:\Users\Zeh\Desktop\Programação\Udemy\Curso C# Logica e algoritmos\Projetos Visual Studio\udemy_menor_numero_lido\udemy_menor_numero_lido\bin\Debug\net10.0\udemy_menor_numero_lido.dll
+C:\Users\Zeh\Desktop\Programação\Udemy\Curso C# Logica e algoritmos\Projetos Visual Studio\udemy_menor_numero_lido\udemy_menor_numero_lido\bin\Debug\net10.0\udemy_menor_numero_lido.pdb
+C:\Users\Zeh\Desktop\Programação\Udemy\Curso C# Logica e algoritmos\Projetos Visual Studio\udemy_menor_numero_lido\udemy_menor_numero_lido\obj\Debug\net10.0\udemy_menor_numero_lido.dll
+C:\Users\Zeh\Desktop\Programação\Udemy\Curso C# Logica e algoritmos\Projetos Visual Studio\udemy_menor_numero_lido\udemy_menor_numero_lido\obj\Debug\net10.0\refint\udemy_menor_numero_lido.dll
+C:\Users\Zeh\Desktop\Programação\Udemy\Curso C# Logica e algoritmos\Projetos Visual Studio\udemy_menor_numero_lido\udemy_menor_numero_lido\obj\Debug\net10.0\udemy_menor_numero_lido.pdb
+C:\Users\Zeh\Desktop\Programação\Udemy\Curso C# Logica e algoritmos\Projetos Visual Studio\udemy_menor_numero_lido\udemy_menor_numero_lido\obj\Debug\net10.0\udemy_menor_numero_lido.genruntimeconfig.cache
+C:\Users\Zeh\Desktop\Programação\Udemy\Curso C# Logica e algoritmos\Projetos Visual Studio\udemy_menor_numero_lido\udemy_menor_numero_lido\obj\Debug\net10.0\ref\udemy_menor_numero_lido.dll

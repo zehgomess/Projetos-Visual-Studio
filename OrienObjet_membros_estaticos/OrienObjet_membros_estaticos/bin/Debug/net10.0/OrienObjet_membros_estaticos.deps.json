@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "OrienObjet_membros_estaticos/1.0.0": {
+        "runtime": {
+          "OrienObjet_membros_estaticos.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "OrienObjet_membros_estaticos/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

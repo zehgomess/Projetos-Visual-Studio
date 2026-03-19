@@ -1,0 +1,14 @@
+C:\Users\Zeh\Desktop\Programação\Udemy\Curso C# Logica e algoritmos\Projetos Visual Studio\OrienObjet_membros_estaticos\OrienObjet_membros_estaticos\obj\Debug\net10.0\OrienObjet_membros_estaticos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Zeh\Desktop\Programação\Udemy\Curso C# Logica e algoritmos\Projetos Visual Studio\OrienObjet_membros_estaticos\OrienObjet_membros_estaticos\obj\Debug\net10.0\OrienObjet_membros_estaticos.AssemblyInfoInputs.cache
+C:\Users\Zeh\Desktop\Programação\Udemy\Curso C# Logica e algoritmos\Projetos Visual Studio\OrienObjet_membros_estaticos\OrienObjet_membros_estaticos\obj\Debug\net10.0\OrienObjet_membros_estaticos.AssemblyInfo.cs
+C:\Users\Zeh\Desktop\Programação\Udemy\Curso C# Logica e algoritmos\Projetos Visual Studio\OrienObjet_membros_estaticos\OrienObjet_membros_estaticos\obj\Debug\net10.0\OrienObjet_membros_estaticos.csproj.CoreCompileInputs.cache
+C:\Users\Zeh\Desktop\Programação\Udemy\Curso C# Logica e algoritmos\Projetos Visual Studio\OrienObjet_membros_estaticos\OrienObjet_membros_estaticos\bin\Debug\net10.0\OrienObjet_membros_estaticos.exe
+C:\Users\Zeh\Desktop\Programação\Udemy\Curso C# Logica e algoritmos\Projetos Visual Studio\OrienObjet_membros_estaticos\OrienObjet_membros_estaticos\bin\Debug\net10.0\OrienObjet_membros_estaticos.deps.json
+C:\Users\Zeh\Desktop\Programação\Udemy\Curso C# Logica e algoritmos\Projetos Visual Studio\OrienObjet_membros_estaticos\OrienObjet_membros_estaticos\bin\Debug\net10.0\OrienObjet_membros_estaticos.runtimeconfig.json
+C:\Users\Zeh\Desktop\Programação\Udemy\Curso C# Logica e algoritmos\Projetos Visual Studio\OrienObjet_membros_estaticos\OrienObjet_membros_estaticos\bin\Debug\net10.0\OrienObjet_membros_estaticos.dll
+C:\Users\Zeh\Desktop\Programação\Udemy\Curso C# Logica e algoritmos\Projetos Visual Studio\OrienObjet_membros_estaticos\OrienObjet_membros_estaticos\bin\Debug\net10.0\OrienObjet_membros_estaticos.pdb
+C:\Users\Zeh\Desktop\Programação\Udemy\Curso C# Logica e algoritmos\Projetos Visual Studio\OrienObjet_membros_estaticos\OrienObjet_membros_estaticos\obj\Debug\net10.0\OrienObjet_membros_estaticos.dll
+C:\Users\Zeh\Desktop\Programação\Udemy\Curso C# Logica e algoritmos\Projetos Visual Studio\OrienObjet_membros_estaticos\OrienObjet_membros_estaticos\obj\Debug\net10.0\refint\OrienObjet_membros_estaticos.dll
+C:\Users\Zeh\Desktop\Programação\Udemy\Curso C# Logica e algoritmos\Projetos Visual Studio\OrienObjet_membros_estaticos\OrienObjet_membros_estaticos\obj\Debug\net10.0\OrienObjet_membros_estaticos.pdb
+C:\Users\Zeh\Desktop\Programação\Udemy\Curso C# Logica e algoritmos\Projetos Visual Studio\OrienObjet_membros_estaticos\OrienObjet_membros_estaticos\obj\Debug\net10.0\OrienObjet_membros_estaticos.genruntimeconfig.cache
+C:\Users\Zeh\Desktop\Programação\Udemy\Curso C# Logica e algoritmos\Projetos Visual Studio\OrienObjet_membros_estaticos\OrienObjet_membros_estaticos\obj\Debug\net10.0\ref\OrienObjet_membros_estaticos.dll

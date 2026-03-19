@@ -1,0 +1,14 @@
+C:\Users\Zeh\Desktop\Programação\Udemy\Curso C# Logica e algoritmos\Projetos Visual Studio\udmy_encapsulamento\udmy_encapsulamento\obj\Debug\net10.0\udmy_encapsulamento.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Zeh\Desktop\Programação\Udemy\Curso C# Logica e algoritmos\Projetos Visual Studio\udmy_encapsulamento\udmy_encapsulamento\obj\Debug\net10.0\udmy_encapsulamento.AssemblyInfoInputs.cache
+C:\Users\Zeh\Desktop\Programação\Udemy\Curso C# Logica e algoritmos\Projetos Visual Studio\udmy_encapsulamento\udmy_encapsulamento\obj\Debug\net10.0\udmy_encapsulamento.AssemblyInfo.cs
+C:\Users\Zeh\Desktop\Programação\Udemy\Curso C# Logica e algoritmos\Projetos Visual Studio\udmy_encapsulamento\udmy_encapsulamento\obj\Debug\net10.0\udmy_encapsulamento.csproj.CoreCompileInputs.cache
+C:\Users\Zeh\Desktop\Programação\Udemy\Curso C# Logica e algoritmos\Projetos Visual Studio\udmy_encapsulamento\udmy_encapsulamento\bin\Debug\net10.0\udmy_encapsulamento.exe
+C:\Users\Zeh\Desktop\Programação\Udemy\Curso C# Logica e algoritmos\Projetos Visual Studio\udmy_encapsulamento\udmy_encapsulamento\bin\Debug\net10.0\udmy_encapsulamento.deps.json
+C:\Users\Zeh\Desktop\Programação\Udemy\Curso C# Logica e algoritmos\Projetos Visual Studio\udmy_encapsulamento\udmy_encapsulamento\bin\Debug\net10.0\udmy_encapsulamento.runtimeconfig.json
+C:\Users\Zeh\Desktop\Programação\Udemy\Curso C# Logica e algoritmos\Projetos Visual Studio\udmy_encapsulamento\udmy_encapsulamento\bin\Debug\net10.0\udmy_encapsulamento.dll
+C:\Users\Zeh\Desktop\Programação\Udemy\Curso C# Logica e algoritmos\Projetos Visual Studio\udmy_encapsulamento\udmy_encapsulamento\bin\Debug\net10.0\udmy_encapsulamento.pdb
+C:\Users\Zeh\Desktop\Programação\Udemy\Curso C# Logica e algoritmos\Projetos Visual Studio\udmy_encapsulamento\udmy_encapsulamento\obj\Debug\net10.0\udmy_encapsulamento.dll
+C:\Users\Zeh\Desktop\Programação\Udemy\Curso C# Logica e algoritmos\Projetos Visual Studio\udmy_encapsulamento\udmy_encapsulamento\obj\Debug\net10.0\refint\udmy_encapsulamento.dll
+C:\Users\Zeh\Desktop\Programação\Udemy\Curso C# Logica e algoritmos\Projetos Visual Studio\udmy_encapsulamento\udmy_encapsulamento\obj\Debug\net10.0\udmy_encapsulamento.pdb
+C:\Users\Zeh\Desktop\Programação\Udemy\Curso C# Logica e algoritmos\Projetos Visual Studio\udmy_encapsulamento\udmy_encapsulamento\obj\Debug\net10.0\udmy_encapsulamento.genruntimeconfig.cache
+C:\Users\Zeh\Desktop\Programação\Udemy\Curso C# Logica e algoritmos\Projetos Visual Studio\udmy_encapsulamento\udmy_encapsulamento\obj\Debug\net10.0\ref\udmy_encapsulamento.dll

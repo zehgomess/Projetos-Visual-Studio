@@ -1,0 +1,14 @@
+C:\Users\Zeh\Desktop\Programação\Udemy\Curso C# Logica e algoritmos\Projetos Visual Studio\udemy_vetores_01\udemy_vetores_01\bin\Debug\net10.0\udemy_vetores_01.exe
+C:\Users\Zeh\Desktop\Programação\Udemy\Curso C# Logica e algoritmos\Projetos Visual Studio\udemy_vetores_01\udemy_vetores_01\bin\Debug\net10.0\udemy_vetores_01.deps.json
+C:\Users\Zeh\Desktop\Programação\Udemy\Curso C# Logica e algoritmos\Projetos Visual Studio\udemy_vetores_01\udemy_vetores_01\bin\Debug\net10.0\udemy_vetores_01.runtimeconfig.json
+C:\Users\Zeh\Desktop\Programação\Udemy\Curso C# Logica e algoritmos\Projetos Visual Studio\udemy_vetores_01\udemy_vetores_01\bin\Debug\net10.0\udemy_vetores_01.dll
+C:\Users\Zeh\Desktop\Programação\Udemy\Curso C# Logica e algoritmos\Projetos Visual Studio\udemy_vetores_01\udemy_vetores_01\bin\Debug\net10.0\udemy_vetores_01.pdb
+C:\Users\Zeh\Desktop\Programação\Udemy\Curso C# Logica e algoritmos\Projetos Visual Studio\udemy_vetores_01\udemy_vetores_01\obj\Debug\net10.0\udemy_vetores_01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Zeh\Desktop\Programação\Udemy\Curso C# Logica e algoritmos\Projetos Visual Studio\udemy_vetores_01\udemy_vetores_01\obj\Debug\net10.0\udemy_vetores_01.AssemblyInfoInputs.cache
+C:\Users\Zeh\Desktop\Programação\Udemy\Curso C# Logica e algoritmos\Projetos Visual Studio\udemy_vetores_01\udemy_vetores_01\obj\Debug\net10.0\udemy_vetores_01.AssemblyInfo.cs
+C:\Users\Zeh\Desktop\Programação\Udemy\Curso C# Logica e algoritmos\Projetos Visual Studio\udemy_vetores_01\udemy_vetores_01\obj\Debug\net10.0\udemy_vetores_01.csproj.CoreCompileInputs.cache
+C:\Users\Zeh\Desktop\Programação\Udemy\Curso C# Logica e algoritmos\Projetos Visual Studio\udemy_vetores_01\udemy_vetores_01\obj\Debug\net10.0\udemy_vetores_01.dll
+C:\Users\Zeh\Desktop\Programação\Udemy\Curso C# Logica e algoritmos\Projetos Visual Studio\udemy_vetores_01\udemy_vetores_01\obj\Debug\net10.0\refint\udemy_vetores_01.dll
+C:\Users\Zeh\Desktop\Programação\Udemy\Curso C# Logica e algoritmos\Projetos Visual Studio\udemy_vetores_01\udemy_vetores_01\obj\Debug\net10.0\udemy_vetores_01.pdb
+C:\Users\Zeh\Desktop\Programação\Udemy\Curso C# Logica e algoritmos\Projetos Visual Studio\udemy_vetores_01\udemy_vetores_01\obj\Debug\net10.0\udemy_vetores_01.genruntimeconfig.cache
+C:\Users\Zeh\Desktop\Programação\Udemy\Curso C# Logica e algoritmos\Projetos Visual Studio\udemy_vetores_01\udemy_vetores_01\obj\Debug\net10.0\ref\udemy_vetores_01.dll

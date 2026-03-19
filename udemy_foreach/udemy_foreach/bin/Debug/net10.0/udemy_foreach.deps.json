@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "udemy_foreach/1.0.0": {
+        "runtime": {
+          "udemy_foreach.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "udemy_foreach/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

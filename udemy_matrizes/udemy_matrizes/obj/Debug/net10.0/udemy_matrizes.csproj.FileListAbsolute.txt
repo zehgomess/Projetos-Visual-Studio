@@ -1,0 +1,14 @@
+C:\Users\Zeh\Desktop\Programação\Udemy\Curso C# Logica e algoritmos\Projetos Visual Studio\udemy_matrizes\udemy_matrizes\obj\Debug\net10.0\udemy_matrizes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Zeh\Desktop\Programação\Udemy\Curso C# Logica e algoritmos\Projetos Visual Studio\udemy_matrizes\udemy_matrizes\obj\Debug\net10.0\udemy_matrizes.AssemblyInfoInputs.cache
+C:\Users\Zeh\Desktop\Programação\Udemy\Curso C# Logica e algoritmos\Projetos Visual Studio\udemy_matrizes\udemy_matrizes\obj\Debug\net10.0\udemy_matrizes.AssemblyInfo.cs
+C:\Users\Zeh\Desktop\Programação\Udemy\Curso C# Logica e algoritmos\Projetos Visual Studio\udemy_matrizes\udemy_matrizes\obj\Debug\net10.0\udemy_matrizes.csproj.CoreCompileInputs.cache
+C:\Users\Zeh\Desktop\Programação\Udemy\Curso C# Logica e algoritmos\Projetos Visual Studio\udemy_matrizes\udemy_matrizes\bin\Debug\net10.0\udemy_matrizes.exe
+C:\Users\Zeh\Desktop\Programação\Udemy\Curso C# Logica e algoritmos\Projetos Visual Studio\udemy_matrizes\udemy_matrizes\bin\Debug\net10.0\udemy_matrizes.deps.json
+C:\Users\Zeh\Desktop\Programação\Udemy\Curso C# Logica e algoritmos\Projetos Visual Studio\udemy_matrizes\udemy_matrizes\bin\Debug\net10.0\udemy_matrizes.runtimeconfig.json
+C:\Users\Zeh\Desktop\Programação\Udemy\Curso C# Logica e algoritmos\Projetos Visual Studio\udemy_matrizes\udemy_matrizes\bin\Debug\net10.0\udemy_matrizes.dll
+C:\Users\Zeh\Desktop\Programação\Udemy\Curso C# Logica e algoritmos\Projetos Visual Studio\udemy_matrizes\udemy_matrizes\bin\Debug\net10.0\udemy_matrizes.pdb
+C:\Users\Zeh\Desktop\Programação\Udemy\Curso C# Logica e algoritmos\Projetos Visual Studio\udemy_matrizes\udemy_matrizes\obj\Debug\net10.0\udemy_matrizes.dll
+C:\Users\Zeh\Desktop\Programação\Udemy\Curso C# Logica e algoritmos\Projetos Visual Studio\udemy_matrizes\udemy_matrizes\obj\Debug\net10.0\refint\udemy_matrizes.dll
+C:\Users\Zeh\Desktop\Programação\Udemy\Curso C# Logica e algoritmos\Projetos Visual Studio\udemy_matrizes\udemy_matrizes\obj\Debug\net10.0\udemy_matrizes.pdb
+C:\Users\Zeh\Desktop\Programação\Udemy\Curso C# Logica e algoritmos\Projetos Visual Studio\udemy_matrizes\udemy_matrizes\obj\Debug\net10.0\udemy_matrizes.genruntimeconfig.cache
+C:\Users\Zeh\Desktop\Programação\Udemy\Curso C# Logica e algoritmos\Projetos Visual Studio\udemy_matrizes\udemy_matrizes\obj\Debug\net10.0\ref\udemy_matrizes.dll

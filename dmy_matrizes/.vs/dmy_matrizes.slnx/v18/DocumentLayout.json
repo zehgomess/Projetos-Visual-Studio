@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Zeh\\Desktop\\Programa\u00E7\u00E3o\\Udemy\\Curso C# Logica e algoritmos\\Projetos Visual Studio\\dmy_matrizes\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0295A571-B972-42EB-83E9-4FD553F7FA8D}|dmy_matrizes\\dmy_matrizes.csproj|c:\\users\\zeh\\desktop\\programa\u00E7\u00E3o\\udemy\\curso c# logica e algoritmos\\projetos visual studio\\dmy_matrizes\\dmy_matrizes\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0295A571-B972-42EB-83E9-4FD553F7FA8D}|dmy_matrizes\\dmy_matrizes.csproj|solutionrelative:dmy_matrizes\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Zeh\\Desktop\\Programa\u00E7\u00E3o\\Udemy\\Curso C# Logica e algoritmos\\Projetos Visual Studio\\dmy_matrizes\\dmy_matrizes\\Program.cs",
+              "RelativeDocumentMoniker": "dmy_matrizes\\Program.cs",
+              "ToolTip": "C:\\Users\\Zeh\\Desktop\\Programa\u00E7\u00E3o\\Udemy\\Curso C# Logica e algoritmos\\Projetos Visual Studio\\dmy_matrizes\\dmy_matrizes\\Program.cs",
+              "RelativeToolTip": "dmy_matrizes\\Program.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAcwCIAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-12T12:56:08.091Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+C:\Users\Zeh\Desktop\Programação\Udemy\Curso C# Logica e algoritmos\Projetos Visual Studio\Udemy curso URI 1019\Udemy curso URI 1019\bin\Debug\net10.0\Udemy curso URI 1019.exe
+C:\Users\Zeh\Desktop\Programação\Udemy\Curso C# Logica e algoritmos\Projetos Visual Studio\Udemy curso URI 1019\Udemy curso URI 1019\bin\Debug\net10.0\Udemy curso URI 1019.deps.json
+C:\Users\Zeh\Desktop\Programação\Udemy\Curso C# Logica e algoritmos\Projetos Visual Studio\Udemy curso URI 1019\Udemy curso URI 1019\bin\Debug\net10.0\Udemy curso URI 1019.runtimeconfig.json
+C:\Users\Zeh\Desktop\Programação\Udemy\Curso C# Logica e algoritmos\Projetos Visual Studio\Udemy curso URI 1019\Udemy curso URI 1019\bin\Debug\net10.0\Udemy curso URI 1019.dll
+C:\Users\Zeh\Desktop\Programação\Udemy\Curso C# Logica e algoritmos\Projetos Visual Studio\Udemy curso URI 1019\Udemy curso URI 1019\bin\Debug\net10.0\Udemy curso URI 1019.pdb
+C:\Users\Zeh\Desktop\Programação\Udemy\Curso C# Logica e algoritmos\Projetos Visual Studio\Udemy curso URI 1019\Udemy curso URI 1019\obj\Debug\net10.0\Udemy curso URI 1019.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Zeh\Desktop\Programação\Udemy\Curso C# Logica e algoritmos\Projetos Visual Studio\Udemy curso URI 1019\Udemy curso URI 1019\obj\Debug\net10.0\Udemy curso URI 1019.AssemblyInfoInputs.cache
+C:\Users\Zeh\Desktop\Programação\Udemy\Curso C# Logica e algoritmos\Projetos Visual Studio\Udemy curso URI 1019\Udemy curso URI 1019\obj\Debug\net10.0\Udemy curso URI 1019.AssemblyInfo.cs
+C:\Users\Zeh\Desktop\Programação\Udemy\Curso C# Logica e algoritmos\Projetos Visual Studio\Udemy curso URI 1019\Udemy curso URI 1019\obj\Debug\net10.0\Udemy curso URI 1019.csproj.CoreCompileInputs.cache
+C:\Users\Zeh\Desktop\Programação\Udemy\Curso C# Logica e algoritmos\Projetos Visual Studio\Udemy curso URI 1019\Udemy curso URI 1019\obj\Debug\net10.0\Udemy curso URI 1019.dll
+C:\Users\Zeh\Desktop\Programação\Udemy\Curso C# Logica e algoritmos\Projetos Visual Studio\Udemy curso URI 1019\Udemy curso URI 1019\obj\Debug\net10.0\refint\Udemy curso URI 1019.dll
+C:\Users\Zeh\Desktop\Programação\Udemy\Curso C# Logica e algoritmos\Projetos Visual Studio\Udemy curso URI 1019\Udemy curso URI 1019\obj\Debug\net10.0\Udemy curso URI 1019.pdb
+C:\Users\Zeh\Desktop\Programação\Udemy\Curso C# Logica e algoritmos\Projetos Visual Studio\Udemy curso URI 1019\Udemy curso URI 1019\obj\Debug\net10.0\Udemy curso URI 1019.genruntimeconfig.cache
+C:\Users\Zeh\Desktop\Programação\Udemy\Curso C# Logica e algoritmos\Projetos Visual Studio\Udemy curso URI 1019\Udemy curso URI 1019\obj\Debug\net10.0\ref\Udemy curso URI 1019.dll

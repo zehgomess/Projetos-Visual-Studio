@@ -1,0 +1,14 @@
+C:\Users\Zeh\Desktop\Programação\Udemy\Curso C# Logica e algoritmos\Projetos Visual Studio\Exercicos udemy_triangulo\Exercicos udemy\bin\Debug\net10.0\Exercicos udemy Triangulo.exe
+C:\Users\Zeh\Desktop\Programação\Udemy\Curso C# Logica e algoritmos\Projetos Visual Studio\Exercicos udemy_triangulo\Exercicos udemy\bin\Debug\net10.0\Exercicos udemy Triangulo.deps.json
+C:\Users\Zeh\Desktop\Programação\Udemy\Curso C# Logica e algoritmos\Projetos Visual Studio\Exercicos udemy_triangulo\Exercicos udemy\bin\Debug\net10.0\Exercicos udemy Triangulo.runtimeconfig.json
+C:\Users\Zeh\Desktop\Programação\Udemy\Curso C# Logica e algoritmos\Projetos Visual Studio\Exercicos udemy_triangulo\Exercicos udemy\bin\Debug\net10.0\Exercicos udemy Triangulo.dll
+C:\Users\Zeh\Desktop\Programação\Udemy\Curso C# Logica e algoritmos\Projetos Visual Studio\Exercicos udemy_triangulo\Exercicos udemy\bin\Debug\net10.0\Exercicos udemy Triangulo.pdb
+C:\Users\Zeh\Desktop\Programação\Udemy\Curso C# Logica e algoritmos\Projetos Visual Studio\Exercicos udemy_triangulo\Exercicos udemy\obj\Debug\net10.0\Exercicos udemy Triangulo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Zeh\Desktop\Programação\Udemy\Curso C# Logica e algoritmos\Projetos Visual Studio\Exercicos udemy_triangulo\Exercicos udemy\obj\Debug\net10.0\Exercicos udemy Triangulo.AssemblyInfoInputs.cache
+C:\Users\Zeh\Desktop\Programação\Udemy\Curso C# Logica e algoritmos\Projetos Visual Studio\Exercicos udemy_triangulo\Exercicos udemy\obj\Debug\net10.0\Exercicos udemy Triangulo.AssemblyInfo.cs
+C:\Users\Zeh\Desktop\Programação\Udemy\Curso C# Logica e algoritmos\Projetos Visual Studio\Exercicos udemy_triangulo\Exercicos udemy\obj\Debug\net10.0\Exercicos udemy Triangulo.csproj.CoreCompileInputs.cache
+C:\Users\Zeh\Desktop\Programação\Udemy\Curso C# Logica e algoritmos\Projetos Visual Studio\Exercicos udemy_triangulo\Exercicos udemy\obj\Debug\net10.0\Exercicos udemy Triangulo.dll
+C:\Users\Zeh\Desktop\Programação\Udemy\Curso C# Logica e algoritmos\Projetos Visual Studio\Exercicos udemy_triangulo\Exercicos udemy\obj\Debug\net10.0\refint\Exercicos udemy Triangulo.dll
+C:\Users\Zeh\Desktop\Programação\Udemy\Curso C# Logica e algoritmos\Projetos Visual Studio\Exercicos udemy_triangulo\Exercicos udemy\obj\Debug\net10.0\Exercicos udemy Triangulo.pdb
+C:\Users\Zeh\Desktop\Programação\Udemy\Curso C# Logica e algoritmos\Projetos Visual Studio\Exercicos udemy_triangulo\Exercicos udemy\obj\Debug\net10.0\Exercicos udemy Triangulo.genruntimeconfig.cache
+C:\Users\Zeh\Desktop\Programação\Udemy\Curso C# Logica e algoritmos\Projetos Visual Studio\Exercicos udemy_triangulo\Exercicos udemy\obj\Debug\net10.0\ref\Exercicos udemy Triangulo.dll
