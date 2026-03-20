@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("udemy_uri1113_cresc_descr")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b7a2b4610ff02ede1f71d9baf36fded3171f7e22")]
 [assembly: System.Reflection.AssemblyProductAttribute("udemy_uri1113_cresc_descr")]
 [assembly: System.Reflection.AssemblyTitleAttribute("udemy_uri1113_cresc_descr")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

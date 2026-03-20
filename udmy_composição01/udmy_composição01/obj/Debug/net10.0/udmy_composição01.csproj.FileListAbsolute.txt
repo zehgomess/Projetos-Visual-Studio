@@ -1,0 +1,15 @@
+C:\Users\Zeh\Desktop\Programação\Udemy\Curso C# Logica e algoritmos\Projetos Visual Studio\udmy_composição01\udmy_composição01\obj\Debug\net10.0\udmy_composição01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Zeh\Desktop\Programação\Udemy\Curso C# Logica e algoritmos\Projetos Visual Studio\udmy_composição01\udmy_composição01\obj\Debug\net10.0\udmy_composição01.AssemblyInfoInputs.cache
+C:\Users\Zeh\Desktop\Programação\Udemy\Curso C# Logica e algoritmos\Projetos Visual Studio\udmy_composição01\udmy_composição01\obj\Debug\net10.0\udmy_composição01.AssemblyInfo.cs
+C:\Users\Zeh\Desktop\Programação\Udemy\Curso C# Logica e algoritmos\Projetos Visual Studio\udmy_composição01\udmy_composição01\obj\Debug\net10.0\udmy_composição01.csproj.CoreCompileInputs.cache
+C:\Users\Zeh\Desktop\Programação\Udemy\Curso C# Logica e algoritmos\Projetos Visual Studio\udmy_composição01\udmy_composição01\obj\Debug\net10.0\udmy_composição01.sourcelink.json
+C:\Users\Zeh\Desktop\Programação\Udemy\Curso C# Logica e algoritmos\Projetos Visual Studio\udmy_composição01\udmy_composição01\bin\Debug\net10.0\udmy_composição01.exe
+C:\Users\Zeh\Desktop\Programação\Udemy\Curso C# Logica e algoritmos\Projetos Visual Studio\udmy_composição01\udmy_composição01\bin\Debug\net10.0\udmy_composição01.deps.json
+C:\Users\Zeh\Desktop\Programação\Udemy\Curso C# Logica e algoritmos\Projetos Visual Studio\udmy_composição01\udmy_composição01\bin\Debug\net10.0\udmy_composição01.runtimeconfig.json
+C:\Users\Zeh\Desktop\Programação\Udemy\Curso C# Logica e algoritmos\Projetos Visual Studio\udmy_composição01\udmy_composição01\bin\Debug\net10.0\udmy_composição01.dll
+C:\Users\Zeh\Desktop\Programação\Udemy\Curso C# Logica e algoritmos\Projetos Visual Studio\udmy_composição01\udmy_composição01\bin\Debug\net10.0\udmy_composição01.pdb
+C:\Users\Zeh\Desktop\Programação\Udemy\Curso C# Logica e algoritmos\Projetos Visual Studio\udmy_composição01\udmy_composição01\obj\Debug\net10.0\udmy_composição01.dll
+C:\Users\Zeh\Desktop\Programação\Udemy\Curso C# Logica e algoritmos\Projetos Visual Studio\udmy_composição01\udmy_composição01\obj\Debug\net10.0\refint\udmy_composição01.dll
+C:\Users\Zeh\Desktop\Programação\Udemy\Curso C# Logica e algoritmos\Projetos Visual Studio\udmy_composição01\udmy_composição01\obj\Debug\net10.0\udmy_composição01.pdb
+C:\Users\Zeh\Desktop\Programação\Udemy\Curso C# Logica e algoritmos\Projetos Visual Studio\udmy_composição01\udmy_composição01\obj\Debug\net10.0\udmy_composição01.genruntimeconfig.cache
+C:\Users\Zeh\Desktop\Programação\Udemy\Curso C# Logica e algoritmos\Projetos Visual Studio\udmy_composição01\udmy_composição01\obj\Debug\net10.0\ref\udmy_composição01.dll

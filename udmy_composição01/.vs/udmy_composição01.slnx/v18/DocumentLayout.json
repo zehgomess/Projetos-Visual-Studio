@@ -5,6 +5,22 @@
     {
       "AbsoluteMoniker": "D:0:0:{C87710A2-99C1-851B-D4D0-A675601132F0}|udmy_composi\u00E7\u00E3o01\\udmy_composi\u00E7\u00E3o01.csproj|c:\\users\\zeh\\desktop\\programa\u00E7\u00E3o\\udemy\\curso c# logica e algoritmos\\projetos visual studio\\udmy_composi\u00E7\u00E3o01\\udmy_composi\u00E7\u00E3o01\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C87710A2-99C1-851B-D4D0-A675601132F0}|udmy_composi\u00E7\u00E3o01\\udmy_composi\u00E7\u00E3o01.csproj|solutionrelative:udmy_composi\u00E7\u00E3o01\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C87710A2-99C1-851B-D4D0-A675601132F0}|udmy_composi\u00E7\u00E3o01\\udmy_composi\u00E7\u00E3o01.csproj|c:\\users\\zeh\\desktop\\programa\u00E7\u00E3o\\udemy\\curso c# logica e algoritmos\\projetos visual studio\\udmy_composi\u00E7\u00E3o01\\udmy_composi\u00E7\u00E3o01\\entities\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C87710A2-99C1-851B-D4D0-A675601132F0}|udmy_composi\u00E7\u00E3o01\\udmy_composi\u00E7\u00E3o01.csproj|solutionrelative:udmy_composi\u00E7\u00E3o01\\entities\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C87710A2-99C1-851B-D4D0-A675601132F0}|udmy_composi\u00E7\u00E3o01\\udmy_composi\u00E7\u00E3o01.csproj|c:\\users\\zeh\\desktop\\programa\u00E7\u00E3o\\udemy\\curso c# logica e algoritmos\\projetos visual studio\\udmy_composi\u00E7\u00E3o01\\udmy_composi\u00E7\u00E3o01\\entities\\enums\\workerlevel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C87710A2-99C1-851B-D4D0-A675601132F0}|udmy_composi\u00E7\u00E3o01\\udmy_composi\u00E7\u00E3o01.csproj|solutionrelative:udmy_composi\u00E7\u00E3o01\\entities\\enums\\workerlevel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C87710A2-99C1-851B-D4D0-A675601132F0}|udmy_composi\u00E7\u00E3o01\\udmy_composi\u00E7\u00E3o01.csproj|c:\\users\\zeh\\desktop\\programa\u00E7\u00E3o\\udemy\\curso c# logica e algoritmos\\projetos visual studio\\udmy_composi\u00E7\u00E3o01\\udmy_composi\u00E7\u00E3o01\\entities\\worker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C87710A2-99C1-851B-D4D0-A675601132F0}|udmy_composi\u00E7\u00E3o01\\udmy_composi\u00E7\u00E3o01.csproj|solutionrelative:udmy_composi\u00E7\u00E3o01\\entities\\worker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C87710A2-99C1-851B-D4D0-A675601132F0}|udmy_composi\u00E7\u00E3o01\\udmy_composi\u00E7\u00E3o01.csproj|c:\\users\\zeh\\desktop\\programa\u00E7\u00E3o\\udemy\\curso c# logica e algoritmos\\projetos visual studio\\udmy_composi\u00E7\u00E3o01\\udmy_composi\u00E7\u00E3o01\\entities\\hourcontract.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C87710A2-99C1-851B-D4D0-A675601132F0}|udmy_composi\u00E7\u00E3o01\\udmy_composi\u00E7\u00E3o01.csproj|solutionrelative:udmy_composi\u00E7\u00E3o01\\entities\\hourcontract.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,8 +30,60 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 4,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "WorkerLevel.cs",
+              "DocumentMoniker": "C:\\Users\\Zeh\\Desktop\\Programa\u00E7\u00E3o\\Udemy\\Curso C# Logica e algoritmos\\Projetos Visual Studio\\udmy_composi\u00E7\u00E3o01\\udmy_composi\u00E7\u00E3o01\\Entities\\enums\\WorkerLevel.cs",
+              "RelativeDocumentMoniker": "udmy_composi\u00E7\u00E3o01\\Entities\\enums\\WorkerLevel.cs",
+              "ToolTip": "C:\\Users\\Zeh\\Desktop\\Programa\u00E7\u00E3o\\Udemy\\Curso C# Logica e algoritmos\\Projetos Visual Studio\\udmy_composi\u00E7\u00E3o01\\udmy_composi\u00E7\u00E3o01\\Entities\\enums\\WorkerLevel.cs",
+              "RelativeToolTip": "udmy_composi\u00E7\u00E3o01\\Entities\\enums\\WorkerLevel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-20T13:54:28.211Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Worker.cs",
+              "DocumentMoniker": "C:\\Users\\Zeh\\Desktop\\Programa\u00E7\u00E3o\\Udemy\\Curso C# Logica e algoritmos\\Projetos Visual Studio\\udmy_composi\u00E7\u00E3o01\\udmy_composi\u00E7\u00E3o01\\Entities\\Worker.cs",
+              "RelativeDocumentMoniker": "udmy_composi\u00E7\u00E3o01\\Entities\\Worker.cs",
+              "ToolTip": "C:\\Users\\Zeh\\Desktop\\Programa\u00E7\u00E3o\\Udemy\\Curso C# Logica e algoritmos\\Projetos Visual Studio\\udmy_composi\u00E7\u00E3o01\\udmy_composi\u00E7\u00E3o01\\Entities\\Worker.cs",
+              "RelativeToolTip": "udmy_composi\u00E7\u00E3o01\\Entities\\Worker.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAzwCgAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-20T13:52:55.112Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "HourContract.cs",
+              "DocumentMoniker": "C:\\Users\\Zeh\\Desktop\\Programa\u00E7\u00E3o\\Udemy\\Curso C# Logica e algoritmos\\Projetos Visual Studio\\udmy_composi\u00E7\u00E3o01\\udmy_composi\u00E7\u00E3o01\\Entities\\HourContract.cs",
+              "RelativeDocumentMoniker": "udmy_composi\u00E7\u00E3o01\\Entities\\HourContract.cs",
+              "ToolTip": "C:\\Users\\Zeh\\Desktop\\Programa\u00E7\u00E3o\\Udemy\\Curso C# Logica e algoritmos\\Projetos Visual Studio\\udmy_composi\u00E7\u00E3o01\\udmy_composi\u00E7\u00E3o01\\Entities\\HourContract.cs",
+              "RelativeToolTip": "udmy_composi\u00E7\u00E3o01\\Entities\\HourContract.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-20T13:49:56.78Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Department.cs",
+              "DocumentMoniker": "C:\\Users\\Zeh\\Desktop\\Programa\u00E7\u00E3o\\Udemy\\Curso C# Logica e algoritmos\\Projetos Visual Studio\\udmy_composi\u00E7\u00E3o01\\udmy_composi\u00E7\u00E3o01\\Entities\\Department.cs",
+              "RelativeDocumentMoniker": "udmy_composi\u00E7\u00E3o01\\Entities\\Department.cs",
+              "ToolTip": "C:\\Users\\Zeh\\Desktop\\Programa\u00E7\u00E3o\\Udemy\\Curso C# Logica e algoritmos\\Projetos Visual Studio\\udmy_composi\u00E7\u00E3o01\\udmy_composi\u00E7\u00E3o01\\Entities\\Department.cs",
+              "RelativeToolTip": "udmy_composi\u00E7\u00E3o01\\Entities\\Department.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-20T13:48:31.197Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
@@ -24,7 +92,7 @@
               "RelativeDocumentMoniker": "udmy_composi\u00E7\u00E3o01\\Program.cs",
               "ToolTip": "C:\\Users\\Zeh\\Desktop\\Programa\u00E7\u00E3o\\Udemy\\Curso C# Logica e algoritmos\\Projetos Visual Studio\\udmy_composi\u00E7\u00E3o01\\udmy_composi\u00E7\u00E3o01\\Program.cs",
               "RelativeToolTip": "udmy_composi\u00E7\u00E3o01\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAMAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAABBAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-03-18T13:40:28.564Z",
               "EditorCaption": ""
